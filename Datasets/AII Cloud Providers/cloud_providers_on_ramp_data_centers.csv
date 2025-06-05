@@ -1,0 +1,755 @@
+name,data_center,building_address,building_city_state_postal,latitude,longitude
+Amazon Web Services,Cirion Buenos Aires,Avenue del Campo 1301,"Buenos Aires, Argentina",-34.590404,-58.467110
+Amazon Web Services,NEXTDC M1,826 Lorimer St,"Melbourne, VIC, Australia",-37.822020,144.932477
+Amazon Web Services,NEXTDC P1,4 Millrose Dr,"Perth, WA, Australia",-31.864402,115.895935
+IBM Cloud,Digital Realty SYD10,1-23 Templar Road,"Sydney, NSW, Australia",-33.816259,150.793554
+Google Cloud,Digital Realty BRU1,Wezembeekstraat 2,"Zaventem, Belgium",50.871069,4.474127
+Amazon Web Services,Equinix SP4,"Avenida Ceci, 1900 ","Barueri, Brazil",-23.493495,-46.809404
+Tencent Cloud,Aligned São Paulo - SP-03,Alameda Araguacema 187,"Barueri, Brazil",-23.501976,-46.827318
+Amazon Web Services,Equinix TR2,45 Parliament,"Toronto, ON, Canada",43.650928,-79.361776
+Google Cloud,Cologix VAN2,1050 West Pender Street,"Vancouver, BC, Canada",49.287112,-123.119330
+Oracle Cloud,EdgeConneX SCL01,Carretera General,"Colina, Chile",-33.343394,-70.697286
+Alibaba Cloud,Beijing-Langfang-C,<address not available>,"Beijing, China",39.904030,116.407526
+Huawei Cloud,CNISP Data Nest 3,"Huo Ma Road, Tongzhou District","Beijing, China",39.754889,116.668480
+Tencent Cloud,ap-beijing-fsi-1,<address not available>,"Beijing, China",39.904030,116.407526
+Tencent Cloud,GDS BJ2,KeChuang 3rd St,"Beijing, China",39.816861,116.518067
+Tencent Cloud,GDS CD1,"Tiansheng Road, High-tech Industry West Park","Chengdu, China",30.572269,104.066541
+Alibaba Cloud,Guangzhou-Huangpu-C,<address not available>,"Guangzhou, China",23.129110,113.264385
+Huawei Cloud,Shenzhen-Yifeng,<address not available>,"Guangzhou, China",23.129110,113.264385
+Huawei Cloud,Huawei Guiyang Gui'an Qixinghu,<address not available>,"Guiyang, China",26.647661,106.630153
+Alibaba Cloud,Hangzhou-Yuhang-C,<address not available>,"Hangzhou, China",30.274085,120.155070
+Alibaba Cloud,Global Switch Hong Kong,18 Chun Yat Street,"Hong Kong, China",22.287699,114.271727
+Microsoft Azure,MEGA-i,399 Chai Wan Road,"Chai Wan, China",22.266098,114.246512
+Alibaba Cloud,Qingdao-Laoshan-A,<address not available>,"Qingdao, China",36.087417,120.342734
+Alibaba Cloud,Shanghai-Minhang-A,<address not available>,"Shanghai, China",31.247571,121.472587
+Huawei Cloud,China Unicom Suzhou Wuzhong Guoke,<address not available>,"Suzhou, China",31.298880,120.585310
+Huawei Cloud,Shanghai-Pudong-A,<address not available>,"Shanghai, China",31.247571,121.472587
+Tencent Cloud,GDS KS1,Huaqiao International Commerce City ,"Kunshan, China",31.286253,121.154740
+Tencent Cloud,ap-shenzhen-f-lj,<address not available>,"Shenzhen, China",22.543099,114.112556
+Tencent Cloud,ap-wuhan-a-lkg,<address not available>,"Wuhan, China",30.592849,114.305539
+Huawei Cloud,Equinix Bogota,<address not available>,"Bogotá, Colombia",4.598056,-74.075833
+Amazon Web Services,Digital Realty MRS1,40 Avenue Roger Salengro,"Marseille, France",43.310924,5.372926
+Microsoft Azure,Digital Realty PAR5,11-13 Avenue des Arts et Metiers,"Paris, France",48.914840,2.361694
+Oracle Cloud,TELEHOUSE Paris (Voltaire),137 Boulevard Voltaire,"Paris, France",48.856014,2.383441
+Amazon Web Services,Equinix FR5,Kleyerstrasse 90,"Frankfurt, Germany",50.098670,8.632260
+Tencent Cloud,China Mobile Frankfurt,Starkenburgstrasse 12,"Mörfelden, Germany",49.986030,8.582890
+Microsoft Azure,EdgeConneX MUC01,Marsstraße 5,"Munich, Germany",48.158582,11.768805
+Amazon Web Services,STT Hyderabad DC1,Software Units Layout CFC-1,"Hyderabad, India",17.441018,78.377831
+Amazon Web Services,Equinix MB2,"Plot 37, Chandivali Farm Road, Andheri East","Mumbai, India",19.109353,72.901441
+Google Cloud,STT Delhi DC1,Videsh Sanchar Bhavan,"New Delhi, India",28.630859,77.207386
+Huawei Cloud,JK5 Jakarta,<address not available>,"Jakarta, Indonesia",-6.171588,106.827868
+Microsoft Azure,Equinix DB3,U2 North West Business Park,"Dublin, Ireland",53.407424,-6.345438
+Microsoft Azure,Bezeq International Ha’Sivim,18 Hasivim Street ,"Petah Tikva, Israel",32.088476,34.853964
+Microsoft Azure,Data4 Campus Milan,Via Monzoro 105,"Cornaredo, Italy",45.480963,9.030182
+Alibaba Cloud,netXDC SI3,<address not available>,"Inzai, Japan",35.801655,140.129565
+IBM Cloud,Equinix TY2,3-8-21 Higashishinagawa,"Tokyo, Japan",35.622100,139.749984
+Tencent Cloud,Equinix TY11,1 Chome-2-41 Ariake,"Koto, Japan",35.639737,139.792362
+Huawei Cloud,Nabiax Ixtlahuaca,Edificio tecnológico Ixtlahuaca,"Ixtlahuaca, Mexico",19.568475,-99.766891
+Amazon Web Services,Digital Realty AMS7,Cessnalaan 50,"Schiphol-Rijk, Netherlands",52.282169,4.767912
+Google Cloud,Vocus Auckland,7A Parkhead Pl,"Albany, New Zealand",-36.750412,174.696070
+Alibaba Cloud,ePLDT Vitro Pasig,3F PLDT Bldg. Danny Floro St. corner CP Garcia St.,"Pasig, Philippines",14.571241,121.068983
+Microsoft Azure,Ooredoo Mesaimeer (QDC5),Mesaimeer,"Doha, Qatar",25.198705,51.499240
+Alibaba Cloud,Global Switch Singapore Tai Seng,2 Tai Seng Avenue,"Singapore, Singapore",1.336752,103.893589
+Oracle Cloud,Cirion Buenos Aires,Avenue del Campo 1301,"Buenos Aires, Argentina",-34.590404,-58.467110
+Google Cloud,Equinix ME1,578 Lorimer Street,"Port Melbourne, VIC, Australia",-37.823011,144.913195
+Amazon Web Services,NEXTDC S2,6-8 Giffnock Avenue,"Sydney, NSW, Australia",-33.786009,151.125105
+Microsoft Azure,Equinix SY2,639 Gardeners Road,"Mascot, NSW, Australia",-33.921390,151.188205
+Oracle Cloud,Digital Realty VIN01,Av João Batista Nunes 50,"Vinhedo, Brazil",-23.071035,-47.014026
+Google Cloud,Cirion São Paulo (Marginal 261),"Avenida Marginal, 261","São Paulo, Brazil",-23.632243,-46.582397
+Oracle Cloud,Cologix MTL3,1250 René Lévesque Ouest,"Montreal, QC, Canada",45.497443,-73.570402
+IBM Cloud,Equinix TR2,45 Parliament,"Toronto, ON, Canada",43.650928,-79.361776
+Amazon Web Services,Cologix VAN3,2828 Natal Street,"Vancouver, BC, Canada",49.259384,-123.029622
+Huawei Cloud,Nabiax Paine,"Avenida Presidente Prieto # 266, Paine","Santiago, Chile",-33.444000,-70.657521
+Alibaba Cloud,Beijing-Shunyi-A,<address not available>,"Beijing, China",39.904030,116.407526
+Amazon Web Services,CIDS Jiachuang IDC,21 Jiachuang 1st Road,"Beijing, China",39.817513,116.550305
+Tencent Cloud,ap-beijing-bls-2,<address not available>,"Beijing, China",39.904030,116.407526
+Tencent Cloud,ap-beijing-bls-1,<address not available>,"Beijing, China",39.904030,116.407526
+Tencent Cloud,Telstra PBS CQCS1,"No 8, Yunhan Dadao","Chongqing, China",29.803448,106.526919
+Huawei Cloud,China Telecom Guangzhou Yunpu,<address not available>,"Guangzhou, China",23.129110,113.264385
+Huawei Cloud,Shenzhen-Nanshan,<address not available>,"Guangzhou, China",23.129110,113.264385
+Huawei Cloud,21vianet Guiyang Xi'an,<address not available>,"Guiyang, China",26.647661,106.630153
+Alibaba Cloud,Hangzhou-Xiaoshan-B,<address not available>,"Hangzhou, China",30.274085,120.155070
+Tencent Cloud,ap-hangzhou-c-jg,<address not available>,"Hangzhou, China",30.274085,120.155070
+Amazon Web Services,Equinix HK1,168 Yeung Uk Road ,"Hong Kong, China",22.365857,114.120285
+Huawei Cloud,Global Switch Hong Kong Sai Kung,<address not available>,"Hong Kong, China",22.396428,114.109497
+Alibaba Cloud,Alibaba China East 3 (Nanjing),<address not available>,"Nanjing, China",32.060255,118.796877
+Alibaba Cloud,Shanghai-Fengxian-A,<address not available>,"Shanghai, China",31.247571,121.472587
+Huawei Cloud,GDS KS3,<address not available>,"Kunshan, China",31.322107,120.703601
+Huawei Cloud,Huawei Hangzhou Research Center,<address not available>,"Suzhou, China",31.298880,120.585310
+Tencent Cloud,ap-shanghai-2,<address not available>,"Shanghai, China",31.247571,121.472587
+Tencent Cloud,GDS SH2,"6-9 Huajing Road, Shanghai Waigaoqiao Free Trade Zone","Pudong, China",31.337508,121.591075
+Tencent Cloud,Souidc Shenzhen Shahe,4 Shenyun Road ,"Shenzhen, China",22.548800,113.986482
+Alibaba Cloud,China Telecom Xi’an,56 Gao Xin Lu,"Xi'an, China",34.235395,108.908963
+Microsoft Azure,Equinix BG1,Carrera 106  ,"Bogotá, Colombia",4.684246,-74.140596
+Google Cloud,Equinix HE7,Sinimaentie 8,"Helsinki, Finland",60.204035,24.772754
+Amazon Web Services,TELEHOUSE Paris (Voltaire),137 Boulevard Voltaire,"Paris, France",48.856014,2.383441
+Alibaba Cloud,Digital Realty FRA1,Hanauer Landstrasse 302-304,"Frankfurt, Germany",50.120070,8.735610
+Microsoft Azure,Equinix FR7,Gutleutstrasse 310,"Frankfurt, Germany",50.096608,8.643450
+Amazon Web Services,NTT NetMagic Bangalore 2,"112, 7th Cross Rd.","Bangalore, India",12.966202,77.671876
+Amazon Web Services,STT Kolkata DC1,"1, Videsh Sanchar Bhavan, 18, CIT Rd","Kolkata, India",22.588269,88.390951
+Google Cloud,STT Mumbai DC3,"C - 21 & C - 36, G Block, Bandra Kurla Complex","Mumbai, India",19.070910,72.873919
+Tencent Cloud,NTT NetMagic Mumbai 5,Lighthall C Wing,"Mumbai, India",19.114623,72.890278
+Alibaba Cloud,EdgeConneX JKT01,"Jl. Mataram no. 6A-6B, Lippo Cikarang","Jakarta, Indonesia",-6.345746,107.166354
+Microsoft Azure,Digital Realty DUB2,24 Kavanagh Avenue,"Dublin, Ireland",53.331542,-6.364242
+Google Cloud,Data4 Campus Milan,Via Monzoro 105,"Cornaredo, Italy",45.480963,9.030182
+Amazon Web Services,Equinix OS1,"Shinmachi, 1 Chome−26−1","Osaka, Japan",34.675719,135.493392
+Google Cloud,Digital Edge TYO2  (Nihonbashi),1-5-3 Horidome-cho,"Tokyo, Japan",35.683121,139.774578
+IBM Cloud,Softbank Omiya Center,4-264-8 Kishiki-cho,"Saitama, Japan",35.896711,139.637114
+Microsoft Azure,AIMS Kuala Lumpur 1-2,Menara Aik Hua,"Kuala Lumpur, Malaysia",3.149439,101.705977
+Microsoft Azure,KIO QRO1,Cerrada de la Princesa 4,"Santiago de Querétaro, Mexico",20.588793,-100.389888
+Oracle Cloud,Equinix AM4,Science Park 610,"Amsterdam, Netherlands",52.354449,4.954004
+Microsoft Azure,Green Mountain SVG1-Rennesøy,Hodneveien 260,"Stavanger, Norway",59.069854,5.760676
+Google Cloud,Equinix LS1,"Av. Severiano Falcão, 14","Lisbon, Portugal",38.787920,-9.123492
+Microsoft Azure,Equinix SG1,20 Ayer Rajah Crescent,"Singapore, Singapore",1.295130,103.790313
+Google Cloud,Cirion Buenos Aires,Avenue del Campo 1301,"Buenos Aires, Argentina",-34.590404,-58.467110
+Google Cloud,NEXTDC B2,454 St Pauls Terrace,"Fortitude Valley, QLD, Australia",-27.453902,153.033201
+Oracle Cloud,Equinix CA1,38 Vicars Street Mitchell ACT 2911,"Canberra, ACT, Australia",-35.211658,149.145298
+Amazon Web Services,NEXTDC C1,19 Battye St,"Canberra, ACT, Australia",-35.246226,149.096414
+Microsoft Azure,CDC FY 1,<address not available>,"Fyshwick, ACT, Australia",-35.329081,149.173278
+Microsoft Azure,CDC HU1,<address not available>,"Hume, ACT, Australia",-35.383973,149.170059
+Google Cloud,Equinix CA1,38 Vicars Street Mitchell ACT 2911,"Canberra, ACT, Australia",-35.211658,149.145298
+Google Cloud,Equinix ME2,578 Lorimer Street,"Port Melbourne, VIC, Australia",-37.823011,144.913195
+Microsoft Azure,NEXTDC M1,826 Lorimer St,"Melbourne, VIC, Australia",-37.822020,144.932477
+Google Cloud,NEXTDC M2,75 Sharps Rd,"Melbourne, VIC, Australia",-37.708029,144.873505
+Oracle Cloud,Equinix ME1,578 Lorimer Street,"Port Melbourne, VIC, Australia",-37.823011,144.913195
+IBM Cloud,NEXTDC M1,826 Lorimer St,"Melbourne, VIC, Australia",-37.822020,144.932477
+Amazon Web Services,Equinix ME2,578 Lorimer Street,"Port Melbourne, VIC, Australia",-37.823011,144.913195
+Microsoft Azure,NEXTDC P1,4 Millrose Dr,"Perth, WA, Australia",-31.864402,115.895935
+Google Cloud,Equinix PE2,37 Lemnos St,"Perth, WA, Australia",-31.954929,115.797330
+Alibaba Cloud,Global Switch Sydney West,400 Harris Street,"Ultimo, NSW, Australia",-33.875499,151.197296
+Amazon Web Services,Global Switch Sydney West,400 Harris Street,"Ultimo, NSW, Australia",-33.875499,151.197296
+Alibaba Cloud,Equinix SY1,639 Gardeners Road,"Mascot, NSW, Australia",-33.921390,151.188205
+Amazon Web Services,Equinix SY3,47 Bourke Road,"Alexandria, NSW, Australia",-33.912237,151.193755
+Alibaba Cloud,Equinix SY4,200 Bourke Road,"Alexandria, NSW, Australia",-33.918214,151.189308
+Google Cloud,NEXTDC S1,4 Eden Park Drive,"Sydney, NSW, Australia",-33.785066,151.131216
+Google Cloud,Equinix SY3,47 Bourke Road,"Alexandria, NSW, Australia",-33.912237,151.193755
+IBM Cloud,Equinix SY4,200 Bourke Road,"Alexandria, NSW, Australia",-33.918214,151.189308
+IBM Cloud,Global Switch Sydney West,400 Harris Street,"Ultimo, NSW, Australia",-33.875499,151.197296
+Oracle Cloud,Equinix SY4,200 Bourke Road,"Alexandria, NSW, Australia",-33.918214,151.189308
+Microsoft Azure,NEXTDC S1,4 Eden Park Drive,"Sydney, NSW, Australia",-33.785066,151.131216
+IBM Cloud,NEXTDC S1,4 Eden Park Drive,"Sydney, NSW, Australia",-33.785066,151.131216
+Google Cloud,Digital Realty VIE2,Louis Haefliger Gasse 10,"Vienna, Austria",48.269762,16.410228
+Amazon Web Services,Digital Realty VIE2,Louis Haefliger Gasse 10,"Vienna, Austria",48.269762,16.410228
+Amazon Web Services,AWS Middle East (Bahrain),<address not available>,"Manama, Bahrain",26.229438,50.575955
+Microsoft Azure,Digital Realty CPS01,"Av. Pierre Simon da Laplace, 1211","Campinas, Brazil",-22.848137,-47.153490
+IBM Cloud,Digital Realty VIN01,Av João Batista Nunes 50,"Vinhedo, Brazil",-23.071035,-47.014026
+Google Cloud,Equinix RJ2,Estrada Adhemar Bebiano 1380,"Rio de Janeiro, Brazil",-22.871520,-43.272836
+Microsoft Azure,Equinix RJ2,Estrada Adhemar Bebiano 1380,"Rio de Janeiro, Brazil",-22.871520,-43.272836
+Google Cloud,"CenturyLink Rio de Janeiro (Dom Pedro II, 329)","Av. Dom Pedro II, 329 - Sao Cristovao","Rio de Janeiro, Brazil",-22.905035,-43.220522
+Amazon Web Services,Equinix RJ2,Estrada Adhemar Bebiano 1380,"Rio de Janeiro, Brazil",-22.871520,-43.272836
+IBM Cloud,Aligned São Paulo - SP-01,"Estrada dos Romeiros, 943","Santana de Parnaiba, Brazil",-23.496225,-46.876923
+Huawei Cloud,Aligned São Paulo - SP-01,"Estrada dos Romeiros, 943","Santana de Parnaiba, Brazil",-23.496225,-46.876923
+Microsoft Azure,Equinix SP2,Alameda Araguaia 3641 - Alphaville,"Barueri, Brazil",-23.502700,-46.829444
+Huawei Cloud,Equinix SP1,"Rua Dr. Miguel Cuoto, 58","São Paulo, Brazil",-23.546145,-46.635633
+IBM Cloud,Digital Realty JDI01,"Rua Presbítero Plinio Alves de Souza, 757","Jundiaí, Brazil",-23.190848,-46.904894
+IBM Cloud,Equinix SP4,"Avenida Ceci, 1900 ","Barueri, Brazil",-23.493495,-46.809404
+Google Cloud,Digital Realty SP02,"A. Roberto Pinto Sobrinho, 350","Osasco, Brazil",-23.492254,-46.779420
+Oracle Cloud,Equinix SP4,"Avenida Ceci, 1900 ","Barueri, Brazil",-23.493495,-46.809404
+Google Cloud,Equinix SP4,"Avenida Ceci, 1900 ","Barueri, Brazil",-23.493495,-46.809404
+Google Cloud,Digital Realty SP02,"A. Roberto Pinto Sobrinho, 350","Osasco, Brazil",-23.492254,-46.779420
+Google Cloud,Telepoint Sofia Centre,122 Ovche Pole Street,"Sofia, Bulgaria",42.702605,23.305984
+Google Cloud,Equinix SO2,33 Poruchik Nedelcho Bonchev Str,"Sofia, Bulgaria",42.675720,23.399309
+Google Cloud,Equinix CL3,5300 86th Avenue SE,"Calgary, AB, Canada",50.975776,-113.962417
+Amazon Web Services,eStruxture MTL 1,800 Square Victoria,"Montreal, QC, Canada",45.501517,-73.563601
+Google Cloud,Cologix MTL3,1250 René Lévesque Ouest,"Montreal, QC, Canada",45.497443,-73.570402
+Microsoft Azure,Cologix MTL3,1250 René Lévesque Ouest,"Montreal, QC, Canada",45.497443,-73.570402
+IBM Cloud,Serverfarm TOR1 Toronto,300 Bartor Road,"Toronto, ON, Canada",43.729334,-79.529223
+Google Cloud,Gtd Santiago (DC Panamericana),Conchalí,"Santiago, Chile",-33.398463,-70.683814
+Alibaba Cloud,Beijing-Haidian-A,<address not available>,"Beijing, China",39.904030,116.407526
+Huawei Cloud,China Telecom Beijing,"Yongcheng N Rd, Haidian","Beijing, China",40.073741,116.229184
+Tencent Cloud,ap-beijing-2,<address not available>,"Beijing, China",39.904030,116.407526
+Tencent Cloud,GDS BJ5,189 Changjin Rd,"Beijing, China",40.197270,116.213842
+Tencent Cloud,ap-chengdu-b-gh,<address not available>,"Chengdu, China",30.670000,104.071022
+Alibaba Cloud,Guangzhou-Development Zone-A,<address not available>,"Guangzhou, China",23.129110,113.264385
+Tencent Cloud,GDS GZ1,31 Kefeng Rd,"Guangzhou, China",23.147914,113.455100
+Huawei Cloud,China Telecom Guiyang Xi'an Xigang,<address not available>,"Guiyang, China",26.647661,106.630153
+Alibaba Cloud,Hangzhou-Yuhang-E,<address not available>,"Hangzhou, China",30.274085,120.155070
+Alibaba Cloud,Heyuan-Yuancheng-A,<address not available>,"Heyuan, China",23.730419,114.680023
+Google Cloud,Equinix HK2,3 Shing Yiu Street,"Hong Kong, China",22.362494,114.118964
+Tencent Cloud,Equinix HK5,299 Wan Po Road,"Tseung Kwan O, China",22.293141,114.274625
+Alibaba Cloud,ap-cn-jinan-gx-A,<address not available>,"Jinan, China",36.655510,116.967010
+Alibaba Cloud,GDS SH2,"6-9 Huajing Road, Shanghai Waigaoqiao Free Trade Zone","Pudong, China",31.337508,121.591075
+Alibaba Cloud,Taicang-Huangjing-A,<address not available>,"Shanghai, China",31.247571,121.472587
+Huawei Cloud,Shanghai-Jiading-A,<address not available>,"Shanghai, China",31.247571,121.472587
+Tencent Cloud,GDS SH5,51 Daxiu Road,"Shanghai, China",31.236399,121.648949
+Alibaba Cloud,Shenzhen-Baoan-B,<address not available>,"Shenzhen, China",22.543099,114.112556
+Tencent Cloud,ap-xian-a-xx,<address not available>,"Xi'an, China",34.273010,108.928009
+Google Cloud,Equinix BG1,Carrera 106  ,"Bogotá, Colombia",4.684246,-74.140596
+Google Cloud,Arelion Helsinki,"Valimotie 5, 00380 ","Helsinki, Finland",60.216073,24.877807
+Google Cloud,Global Switch Paris East,7-9 Rue Petit,"Clichy, France",48.899850,2.296090
+Google Cloud,NTT GDC Berlin 1,Nonnendammallee 15,"Berlin, Germany",52.538479,13.237136
+IBM Cloud,CyrusOne FRA1,Leonhard-Heisswolf Strasse 4,"Frankfurt, Germany",50.127830,8.581179
+Microsoft Azure,Digital Realty FRA11,Weissmuellerstrasse 40,"Frankfurt, Germany",50.119750,8.736283
+Amazon Web Services,Equinix MU1,Seidlstrasse 3,"Munich, Germany",48.143810,11.556020
+Google Cloud,STT Hyderabad DC1,Software Units Layout CFC-1,"Hyderabad, India",17.441018,78.377831
+Amazon Web Services,Sify Rabale,"Plot no. 847/1/2, TTC Industrial Area","Navi Mumbai, India",19.137142,73.017292
+Google Cloud,Sify Noida,Sify Technologies Ltd. Plot Number B7,"Noida, India",28.513678,77.376944
+Huawei Cloud,EDGE Jakarta,<address not available>,"Jakarta, Indonesia",-6.171588,106.827868
+Amazon Web Services,MedOne Tirat Carmel Data Center (T2),Carmelin St 4,"Tirat Carmel, Israel",32.770198,34.966990
+Google Cloud,IRIDEOS Avalon ,Caldera Park,"Milan, Italy",45.478992,9.102694
+Microsoft Azure,Equinix OS1,"Shinmachi, 1 Chome−26−1","Osaka, Japan",34.675719,135.493392
+Amazon Web Services,Equinix TY2,3-8-21 Higashishinagawa,"Tokyo, Japan",35.622100,139.749984
+Microsoft Azure,Equinix TY4,1-9-5 Otemachi,"Chiyoda-ku, Japan",35.687421,139.765370
+Oracle Cloud,Equinix MO1,Carretera Miguel Aleman Km 17.5,"Apodaca, Mexico",25.738175,-100.203438
+Google Cloud,Equinix AM5,Schepenbergweg 42,"Amsterdam, Netherlands",52.294648,4.945349
+Microsoft Azure,STACK OSL01,1 Selma Ellefsens Vei,"Oslo, Norway",59.926160,10.806110
+Google Cloud,Equinix WA1,Al. Jerozolimskie 65/79,"Warsaw, Poland",52.227661,21.004250
+Oracle Cloud,Mobily Jeddah,4336 Abdullah Sulayman Street,"Jeddah, Saudi Arabia",21.489565,39.225036
+Huawei Cloud,Equinix SG3,26A Ayer Rajah Crescent,"Singapore, Singapore",1.296446,103.790593
+Amazon Web Services,Digital Realty CT1,240 Main Road,"Cape Town, South Africa",-33.971200,18.464900
+Oracle Cloud,Digital Realty JB3,12 Kiln Street,"Isando, South Africa",-26.136511,28.200764
+Alibaba Cloud,LG IDC Pyeong-chon Mega Center,1743 Gwanyang-dong,"Anyang, South Korea",37.401903,126.961132
+Tencent Cloud,KT Mokdong I,"233-5, Mokdongdong-ro, Yangcheon-gu","Seoul, South Korea",37.537019,126.873530
+IBM Cloud,Equinix MD1,"Isabel Colbrand, 6 y 8","Madrid, Spain",40.513530,-3.671694
+Google Cloud,Digital Realty STO1,Esbogatan 11,"Kista, Sweden",59.422471,17.918073
+Google Cloud,CHT Hsinchu Zhubei IDC,"No. 136, Guangming 5th St","Zhubei, Taiwan",24.829062,121.011576
+Google Cloud,AIS The Cloud,181 Ratchada-Ramintar Road,"Bangkok, Thailand",13.856707,100.610062
+Microsoft Azure,Vantage Quebec City (QC2) campus,2675 Parc Technologique Blvd,"Quebec City, QC, Canada",46.795640,-71.293071
+Google Cloud,Equinix TR2,45 Parliament,"Toronto, ON, Canada",43.650928,-79.361776
+IBM Cloud,Cologix TOR1,151 Front Street,"Toronto, ON, Canada",43.644664,-79.384163
+Microsoft Azure,Cologix TOR1,151 Front Street,"Toronto, ON, Canada",43.644664,-79.384163
+Microsoft Azure,Cologix VAN1,555 West Hastings Street,"Vancouver, BC, Canada",49.284609,-123.112215
+Amazon Web Services,Cologix VAN2,1050 West Pender Street,"Vancouver, BC, Canada",49.287112,-123.119330
+Huawei Cloud,Claro Liray,Liray 1120,"Santiago, Chile",-33.242880,-70.737779
+Oracle Cloud,Scala SSCLCR01,<address not available>,"Curauma, Chile",-33.122147,-71.576396
+Alibaba Cloud,Beijing-Chaoyang-B,<address not available>,"Beijing, China",39.904030,116.407526
+Alibaba Cloud,Beijing-Daxing-A ,<address not available>,"Beijing, China",39.904030,116.407526
+Alibaba Cloud,Beijing-Yizhuang-A,<address not available>,"Beijing, China",39.904030,116.407526
+Huawei Cloud,Beijing-Yizhuang-A,<address not available>,"Beijing, China",39.904030,116.407526
+Huawei Cloud,Beijing-Langfang-A,<address not available>,"Beijing, China",39.904030,116.407526
+Huawei Cloud,GDS Langfang,<address not available>,"Beijing, China",39.904030,116.407526
+Tencent Cloud,ap-beijing-3,<address not available>,"Beijing, China",39.904030,116.407526
+Tencent Cloud,ap-beijing-bls-3,<address not available>,"Beijing, China",39.904030,116.407526
+Tencent Cloud,Beijing Boxing,"No.18, BoXing No.6 Road","Beijing, China",39.800164,116.481905
+Tencent Cloud,ap-changsha-a-yg,<address not available>,"Changsha, China",28.228209,112.938814
+Alibaba Cloud,GDS CS1 P1,<address not available>,"Changshu, China",31.653584,120.752507
+Alibaba Cloud,Chengdu-Shuangliu-B,<address not available>,"Chengdu, China",30.670000,104.071022
+Tencent Cloud,ap-fuzhou-a-ck,<address not available>,"Fuzhou, China",26.071129,119.303230
+Alibaba Cloud,China Telecom Fuzhou Dongmen,North Changle Rd,"Fuzhou, China",26.058970,119.330240
+Alibaba Cloud,ap-cn-guangzhou-hp-D,<address not available>,"Guangzhou, China",23.129110,113.264385
+Huawei Cloud,Guangzhou-Huangpu-B,<address not available>,"Guangzhou, China",23.129110,113.264385
+Huawei Cloud,China Unicom Guangzhou Mingmei,<address not available>,"Guangzhou, China",23.129110,113.264385
+Huawei Cloud,Huawei Dongguan Tuanbowa,<address not available>,"Guangzhou, China",23.129110,113.264385
+Tencent Cloud,ap-guangzhou-4,<address not available>,"Guangzhou, China",23.129110,113.264385
+Huawei Cloud,Shenzhen-Baode,<address not available>,"Guangzhou, China",23.129110,113.264385
+Huawei Cloud,China Mobile Guiyang,<address not available>,"Guiyang, China",26.647661,106.630153
+Huawei Cloud,China Unicom Guiyang,<address not available>,"Guiyang, China",26.647661,106.630153
+Alibaba Cloud,Hangzhou-Deqing-A,<address not available>,"Hangzhou, China",30.274085,120.155070
+Alibaba Cloud,Hangzhou-Yuhang-B,<address not available>,"Hangzhou, China",30.274085,120.155070
+Alibaba Cloud,Hangzhou-Xiaoshan-D,<address not available>,"Hangzhou, China",30.274085,120.155070
+Alibaba Cloud,Hangzhou-Yuhang-D,<address not available>,"Hangzhou, China",30.274085,120.155070
+Tencent Cloud,ap-hangzhou-b-xh,<address not available>,"Hangzhou, China",30.274085,120.155070
+Alibaba Cloud,HK-KwaiChung-F,<address not available>,"Hong Kong, China",22.396428,114.109497
+Alibaba Cloud,Vantage On Lok (HGK11 and HGK12),"On Ting Industrial Centre, 3 On Chuen St, Fanling","Hong Kong, China",22.495215,114.141725
+Amazon Web Services,MEGA-i,399 Chai Wan Road,"Chai Wan, China",22.266098,114.246512
+Huawei Cloud,MEGA-i,399 Chai Wan Road,"Chai Wan, China",22.266098,114.246512
+IBM Cloud,Equinix HK1,168 Yeung Uk Road ,"Hong Kong, China",22.365857,114.120285
+Alibaba Cloud,@hub Inner Mongolia,<address not available>,"Hohhot, China",40.842585,111.749181
+Tencent Cloud,ap-nanjing-3,<address not available>,"Nanjing, China",32.060255,118.796877
+Tencent Cloud,ap-nanjing-2,<address not available>,"Nanjing, China",32.060255,118.796877
+Alibaba Cloud,Qingdao-Licang-A,<address not available>,"Qingdao, China",36.087417,120.342734
+Alibaba Cloud,Shanghai-Baoshan-C,<address not available>,"Shanghai, China",31.247571,121.472587
+Alibaba Cloud,Shanghai-Pudong-A,<address not available>,"Shanghai, China",31.247571,121.472587
+Alibaba Cloud,Shanghai-Baoshan-D,<address not available>,"Shanghai, China",31.247571,121.472587
+Alibaba Cloud,Shanghai-Pudong-D,<address not available>,"Shanghai, China",31.247571,121.472587
+Alibaba Cloud,Shanghai-Pudong-E,<address not available>,"Shanghai, China",31.247571,121.472587
+Huawei Cloud,China Mobile Shanghai Baoxin,<address not available>,"Suzhou, China",31.298880,120.585310
+Huawei Cloud,Huawei Suzhou Wuzhong,<address not available>,"Suzhou, China",31.298880,120.585310
+Amazon Web Services,Cologix MTL3,1250 René Lévesque Ouest,"Montreal, QC, Canada",45.497443,-73.570402
+IBM Cloud,Digital Realty YYZ11,1 Century Place,"Vaughan, ON, Canada",43.779247,-79.540295
+Google Cloud,Digital Realty CHL01,Guacolda 2100,"Renca, Chile",-33.338535,-70.708404
+Alibaba Cloud,Beijing-Daxing-E,<address not available>,"Beijing, China",39.904030,116.407526
+Huawei Cloud,China Telecom Langfang Runze,<address not available>,"Beijing, China",39.904030,116.407526
+Tencent Cloud,ap-beijing-5,<address not available>,"Beijing, China",39.904030,116.407526
+Alibaba Cloud,Chengdu-Shuangliu-A,<address not available>,"Chengdu, China",30.670000,104.071022
+Alibaba Cloud,Guangzhou Qirui,"Building C, Qirui Science and Technology Park, No. 1,","Guangzhou, China",23.168722,113.436396
+Tencent Cloud,ap-guangzhou-3,<address not available>,"Guangzhou, China",23.129110,113.264385
+Huawei Cloud,Huawei Guiyang Gui'an High-end Park,<address not available>,"Guiyang, China",26.647661,106.630153
+Tencent Cloud,ap-hangzhou-a-dg,<address not available>,"Hangzhou, China",30.274085,120.155070
+Alibaba Cloud,MEGA-i,399 Chai Wan Road,"Chai Wan, China",22.266098,114.246512
+Microsoft Azure,Equinix HK1,168 Yeung Uk Road ,"Hong Kong, China",22.365857,114.120285
+Tencent Cloud,Princeton Digital NJ1,Jiangning National High-Tech Industrial Zone,"Nanjing, China",31.921298,118.863086
+Alibaba Cloud,Shanghai-Jiading-A,<address not available>,"Shanghai, China",31.247571,121.472587
+Huawei Cloud,Cloud data center of Hangzhou Iron & Steel Group,<address not available>,"Suzhou, China",31.298880,120.585310
+Huawei Cloud,Kunshan Kunhui Suzhou,<address not available>,"Suzhou, China",31.298880,120.585310
+Tencent Cloud,ap-shanghai-bls-3,<address not available>,"Shanghai, China",31.247571,121.472587
+Alibaba Cloud,Shenzhen-Longgang-A,<address not available>,"Shenzhen, China",22.543099,114.112556
+Alibaba Cloud,Ulanqab-Qianqi-A,<address not available>,"Ulanqab, China",40.994785,113.132585
+Alibaba Cloud,Zhangjiakou-Zhangbei-A,<address not available>,"Zhangjiakou, China",40.824418,114.887543
+Amazon Web Services,CE Colo DC,Nad Elektrarnou 1428/47,"Prague, Czech Republic",50.060166,14.482932
+Microsoft Azure,Digital Realty MRS1,40 Avenue Roger Salengro,"Marseille, France",43.310924,5.372926
+IBM Cloud,Equinix PA4,110 Bis Avenue du General Leclerc,"Pantin, France",48.901620,2.415390
+Amazon Web Services,CarrierColo Berlin B (IPB Berlin),Lutzowstrasse 105-106,"Berlin, Germany",52.502020,13.369340
+Google Cloud,NTT GDC Frankfurt 1,Eschborner Landstrasse 100,"Frankfurt, Germany",50.128150,8.600970
+Oracle Cloud,Equinix FR5,Kleyerstrasse 90,"Frankfurt, Germany",50.098670,8.632260
+Google Cloud,Digital Realty ATH1,Ifestou 76,"Koropi, Greece",37.871037,23.870735
+Oracle Cloud,Sify Hyderabad,"Survey No 115, Financial District, Nanakram Guda, Gachibowli","Hyderabad, India",17.464600,78.366630
+Google Cloud,Equinix MB1,"Unit A-001 Boomerang, Chandivali Road","Mumbai, India",19.113897,72.892780
+Microsoft Azure,Nxtra Mumbai I,Hiranandani Lighthall,"Mumbai, India",19.114434,72.888989
+Google Cloud,"DCI Indonesia, JK1","Jawa Blok GG-5-1, MM2100 Industrial Town, Cikarang Barat, Bekasi ","Bekasi, Indonesia",-6.299118,107.083772
+Google Cloud,Keppel DC Dublin 1,"4033 Citywest Ave, Citywest Business Campus","Dublin, Ireland",53.289890,-6.418319
+Google Cloud,TIS Tel Aviv Burla Hub and Data Center,46 Burla Street,"Tel Aviv, Israel",32.111271,34.791378
+IBM Cloud,IRIDEOS Avalon ,Caldera Park,"Milan, Italy",45.478992,9.102694
+Oracle Cloud,NTT Data Osaka,3-1-21 Doujima,"Osaka, Japan",34.695421,135.488890
+IBM Cloud,AT TOKYO CC2,<address not available>,"Koto, Japan",35.642724,139.739124
+Oracle Cloud,netXDC SI3,<address not available>,"Inzai, Japan",35.801655,140.129565
+Huawei Cloud,Equinix Mexico City 3x,<address not available>,"Mexico City, Mexico",19.431900,-99.132851
+Amazon Web Services,Equinix AM3,Science Park 610,"Amsterdam, Netherlands",52.354449,4.954004
+Microsoft Azure,Vocus Auckland,7A Parkhead Pl,"Albany, New Zealand",-36.750412,174.696070
+Amazon Web Services,ePLDT Vitro Makati 2,222 Nicanor Garcia St.,"Makati City, Philippines",14.564484,121.020179
+Microsoft Azure,Meeza MV 2 Data-Centre,Meeza Data-Centre,"Umm Qarn, Qatar",25.551065,51.434997
+Alibaba Cloud,Equinix SG3,26A Ayer Rajah Crescent,"Singapore, Singapore",1.296446,103.790593
+Oracle Cloud,Equinix SG1,20 Ayer Rajah Crescent,"Singapore, Singapore",1.295130,103.790313
+Huawei Cloud,ISDC Parklands Data Centre,7 & 8 Keyes Avenue,"Johannesburg, South Africa",-26.146420,28.037420
+Microsoft Azure,KINX Gasan IDC,"3F, LG Gasan Digital Center","Seoul, South Korea",37.470378,126.885148
+Google Cloud,Digital Realty MAD1,Calle Albasanz 71,"Madrid, Spain",40.439141,-3.621483
+Oracle Cloud,Digital Realty MAD1,Calle Albasanz 71,"Madrid, Spain",40.439141,-3.621483
+Oracle Cloud,Equinix SK1,Mariehällsvägen 36,"Stockholm, Sweden",59.362698,17.955588
+Amazon Web Services,KDDI 250 Front Street W,250 Front Street W,"Toronto, ON, Canada",43.644762,-79.388181
+IBM Cloud,Digital Realty YYZ10,371 Gough Road,"Markham, ON, Canada",43.838690,-79.324889
+Google Cloud,KDDI 151 Front Street W,151 Front Street,"Toronto, ON, Canada",43.644664,-79.384163
+Microsoft Azure,KDDI 905 King Street W,905 King Street West,"Toronto, ON, Canada",43.641995,-79.412127
+Oracle Cloud,Cologix TOR1,151 Front Street,"Toronto, ON, Canada",43.644664,-79.384163
+Amazon Web Services,Cirion Santiago,<address not available>,"Santiago, Chile",-33.437269,-70.650564
+Microsoft Azure,EdgeConneX SCL01,Carretera General,"Colina, Chile",-33.343394,-70.697286
+Google Cloud,Level 3 Santiago (Santa Marta de Huechuraba 6951),Santa Marta de Huechuraba 6951,"Huechuraba, Chile",-33.357991,-70.676260
+Alibaba Cloud,Beijing-Chaoyang-C,<address not available>,"Beijing, China",39.904030,116.407526
+Alibaba Cloud,Beijing-Langfang-A,<address not available>,"Beijing, China",39.904030,116.407526
+Alibaba Cloud,Beijing-Fengtai-A,<address not available>,"Beijing, China",39.904030,116.407526
+Alibaba Cloud,China Telecom Beijing,"Yongcheng N Rd, Haidian","Beijing, China",40.073741,116.229184
+Amazon Web Services,SINNET Jiuxianqiao,10 Jiuxianqiao North Road,"Beijing, China",39.987962,116.499024
+Microsoft Azure,China Telecom Beijing,"Yongcheng N Rd, Haidian","Beijing, China",40.073741,116.229184
+Huawei Cloud,Jiuxianqiao Beijing Chaoyang,<address not available>,"Beijing, China",39.904030,116.407526
+Microsoft Azure,GDS BJ1,11 E Ring Rd N,"Beijing, China",39.801727,116.522327
+Tencent Cloud,ap-beijing-6,<address not available>,"Beijing, China",39.904030,116.407526
+Tencent Cloud,ap-beijing-7,<address not available>,"Beijing, China",39.904030,116.407526
+Alibaba Cloud,ap-cn-changsha-yl-A,<address not available>,"Changsha, China",28.228209,112.938814
+Alibaba Cloud,GDS CD1,"Tiansheng Road, High-tech Industry West Park","Chengdu, China",30.572269,104.066541
+Tencent Cloud,GDS CQ1 P1,<address not available>,"Chongqing, China",29.563010,106.551557
+Alibaba Cloud,ap-cn-dalian-pld-A,<address not available>,"Dalian, China",38.943810,121.576523
+Alibaba Cloud,Guangzhou-Huangpu-B,<address not available>,"Guangzhou, China",23.129110,113.264385
+Alibaba Cloud,Shenzhen-Nanshan-A,<address not available>,"Guangzhou, China",23.129110,113.264385
+Huawei Cloud,China Unicom Guangzhou Hualong,<address not available>,"Guangzhou, China",23.129110,113.264385
+Huawei Cloud,Guangzhou-Development Zone-A,<address not available>,"Guangzhou, China",23.129110,113.264385
+Huawei Cloud,Shenzhen-Futian,<address not available>,"Guangzhou, China",23.129110,113.264385
+Tencent Cloud,ap-guangzhou-5,<address not available>,"Guangzhou, China",23.129110,113.264385
+Tencent Cloud,ap-shenzhen-fsi-1,<address not available>,"Guangzhou, China",23.129110,113.264385
+Alibaba Cloud,Hangzhou-Fuyang-A,<address not available>,"Hangzhou, China",30.274085,120.155070
+Alibaba Cloud,Hangzhou-Jianggan-B,<address not available>,"Hangzhou, China",30.274085,120.155070
+Alibaba Cloud,Hangzhou-Xiaoshan-A,<address not available>,"Hangzhou, China",30.274085,120.155070
+Alibaba Cloud,Heyuan-Gaoxin-A,<address not available>,"Heyuan, China",23.730419,114.680023
+Alibaba Cloud,Equinix HK2,3 Shing Yiu Street,"Hong Kong, China",22.362494,114.118964
+Alibaba Cloud,HK-ChaiWan-G,<address not available>,"Hong Kong, China",22.396428,114.109497
+Google Cloud,MEGA-i,399 Chai Wan Road,"Chai Wan, China",22.266098,114.246512
+Huawei Cloud,Equinix HK2,3 Shing Yiu Street,"Hong Kong, China",22.362494,114.118964
+Tencent Cloud,Equinix HK2,3 Shing Yiu Street,"Hong Kong, China",22.362494,114.118964
+Tencent Cloud,MEGA-i,399 Chai Wan Road,"Chai Wan, China",22.266098,114.246512
+Alibaba Cloud,Alibaba China North 5 (Hohhot),<address not available>,"Hohhot, China",40.842585,111.749181
+Alibaba Cloud,Inner Mongolia-Hohhot-A,<address not available>,"Hohhot, China",40.842585,111.749181
+Tencent Cloud,ap-jinan-a-ch,<address not available>,"Jinan, China",36.655510,116.967010
+Alibaba Cloud,China Telecom Shanghai Guilin,7 Guijing Rd,"Shanghai, China",31.162390,121.405540
+Alibaba Cloud,China Unicom Shanghai,<address not available>,"Shanghai, China",31.247571,121.472587
+Alibaba Cloud,Changshu-Bixi-A,<address not available>,"Shanghai, China",31.247571,121.472587
+Alibaba Cloud,Shanghai-Pudong-B,<address not available>,"Shanghai, China",31.247571,121.472587
+Alibaba Cloud,Shanghai-Pudong-C,<address not available>,"Shanghai, China",31.247571,121.472587
+Huawei Cloud,GDS Shanghai,<address not available>,"Suzhou, China",31.298880,120.585310
+Amazon Web Services,GDS SH3,"6-9 Huajing Road, Shanghai Waigaoqiao Free Trade Zone","Pudong, China",31.337508,121.591075
+Huawei Cloud,China Mobile Suzhou Wujiang Fenhu,<address not available>,"Suzhou, China",31.298880,120.585310
+Microsoft Azure,China Telecom Shanghai,1761 Si Chuan Bei Lu,"Shanghai, China",31.254154,121.484363
+Huawei Cloud,Shanghai-Baoshan-A,<address not available>,"Shanghai, China",31.247571,121.472587
+Tencent Cloud,ap-shanghai-bls-2,<address not available>,"Shanghai, China",31.247571,121.472587
+Tencent Cloud,GDS SZ3,51 Hongliu Rd,"Shenzhen, China",22.505962,114.048208
+Amazon Web Services,Shapotou IDC,<address not available>,"Yinchuan, China",38.467899,106.262299
+Oracle Cloud,Claro Triara Cota,Kilómetro7.5 autopista Medellín,"Funza, Colombia",4.767102,-74.178367
+Amazon Web Services,Digital Realty CPH2,Industriparken 20,"Ballerup, Denmark",55.728488,12.376181
+Amazon Web Services,Equinix PA3,114 Rue Ambroise Croizat,"Saint Denis, France",48.928041,2.349860
+Microsoft Azure,Equinix PA4,110 Bis Avenue du General Leclerc,"Pantin, France",48.901620,2.415390
+Amazon Web Services,Digital Realty FRA6,Hanauer Landstrasse 308a,"Frankfurt, Germany",50.120460,8.736990
+Google Cloud,Global Connect Hamburg I,Flughafenstrasse 54 A,"Hamburg, Germany",53.638939,10.015626
+IBM Cloud,STT Chennai DC1,4 Swami Sivananda Salai Road,"Chennai, India",13.060566,80.261264
+Alibaba Cloud,Equinix MB1,"Unit A-001 Boomerang, Chandivali Road","Mumbai, India",19.113897,72.892780
+Microsoft Azure,STT Pune DC1,"Alandi Rd, V S N L Old Colony, Dighi","Pune, India",18.604017,73.862203
+Microsoft Azure,Telkomsigma Serpong (BSD),Jl Kapt. Subijanto Dj,"Tangerang, Indonesia",-6.308865,106.682188
+Oracle Cloud,Bynet Data Center,Hartom St 14,"Jerusalem, Israel",31.804455,35.211906
+Google Cloud,Telecom Italia Milano,"Via Strada Antica di Cassano, 8","Milan, Italy",45.504420,9.349746
+Alibaba Cloud,Japan-Tokyo-A,<address not available>,"Tokyo, Japan",35.509240,139.769812
+Microsoft Azure,netXDC SI3,<address not available>,"Inzai, Japan",35.801655,140.129565
+Huawei Cloud,KIO MEX5,Avenida Benito Juárez 20,"Tultitlán de Mariano Escobedo, Mexico",19.575092,-99.135044
+Google Cloud,Equinix AM3,Science Park 610,"Amsterdam, Netherlands",52.354449,4.954004
+Amazon Web Services,Equinix MC1,Service road at Al Oqda in Wilayat,"Barka, Oman",23.726806,57.792209
+Google Cloud,Ooredoo Mesaimeer (QDC5),Mesaimeer,"Doha, Qatar",25.198705,51.499240
+Amazon Web Services,Global Switch Singapore Woodlands,Woodlands Avenue 12,"Singapore, Singapore",1.431677,103.802888
+Tencent Cloud,Equinix SG4,7 Tai Seng Dr,"Singapore, Singapore",1.339068,103.891095
+Microsoft Azure,Digital Realty JB1-East & West,5 Brewery Street,"Isando, South Africa",-26.137780,28.197560
+Amazon Web Services,KINX Gasan IDC,"3F, LG Gasan Digital Center","Seoul, South Korea",37.470378,126.885148
+Amazon Web Services,Digital Realty MAD2,Calle Albasanz 73,"Madrid, Spain",40.439685,-3.623138
+Microsoft Azure,Digital Realty MAD1,Calle Albasanz 71,"Madrid, Spain",40.439141,-3.621483
+Microsoft Azure,Equinix SK1,Mariehällsvägen 36,"Stockholm, Sweden",59.362698,17.955588
+Microsoft Azure,Equinix ZH5,Allmendstrasse 13,"Bülach, Switzerland",47.515358,8.537485
+Google Cloud,APT Taipei,No. 19-6 Sanchong Rd,"Taipei, Taiwan",25.057064,121.611512
+Huawei Cloud,NTT GDC Bangkok 2,Amata Industrial Estate,"Chon Buri, Thailand",13.440780,101.028339
+Huawei Cloud,Turkcell TR-Istanbul,<address not available>,"Istanbul, Turkey",41.040800,28.986180
+Oracle Cloud,Equinix DX1,F 88-92 Dubai Production City,"Dubai, United Arab Emirates",25.026429,55.184433
+Amazon Web Services,Equinix LD5,8 Buckingham Ave,"Slough, United Kingdom",51.520054,-0.614087
+Microsoft Azure,TELEHOUSE London (Docklands North Two),14 Coriander Avenue,"London, United Kingdom",51.511549,-0.002916
+Google Cloud,Equinix AT2,56 Marietta Street NW,"Atlanta, GA, United States",33.755610,-84.391651
+Google Cloud,CoreSite CH1,427 South LaSalle Street,"Chicago, IL, United States",41.876633,-87.631742
+IBM Cloud,Digital Realty DFW35,907 Security Row,"Richardson, TX, United States",32.955902,-96.695894
+Amazon Web Services,DataBank LAS1,7185 Pollock Drive,"Las Vegas, NV, United States",36.059125,-115.145543
+Google Cloud,Equinix LA3,1920 East Maple Ave,"El Segundo, CA, United States",33.926077,-118.394123
+Microsoft Azure,Equinix MI1,50 NE 9th Street,"Miami, FL, United States",25.782626,-80.193069
+Amazon Web Services,Equinix NY5,800 Secaucus Road,"Secaucus, NJ, United States",40.778738,-74.071541
+Google Cloud,Equinix PH1,401 North Broad Street,"Philadelphia, PA, United States",39.959793,-75.161931
+Microsoft Azure,EdgeConneX POR01,6327 NE Evergreen Pkwy,"Hillsboro, OR, United States",45.551667,-122.917491
+Google Cloud,Equinix SV1,2820 Northwestern Parkway,"Santa Clara, CA, United States",37.372535,-121.973633
+Microsoft Azure,Equinix SV4,255 Caspian Drive,"Sunnyvale, CA, United States",37.414445,-122.014646
+Microsoft Azure,Equinix SE2,2001 Sixth Avenue,"Seattle, WA, United States",47.614347,-122.338515
+Amazon Web Services,Equinix DC2,21715 Filigree Court,"Ashburn, VA, United States",39.016208,-77.459289
+Google Cloud,Equinix DC7,7990 Science Applications Court,"Vienna, VA, United States",38.908473,-77.220218
+Huawei Cloud,Shanghai-Sinnet,<address not available>,"Suzhou, China",31.298880,120.585310
+Alibaba Cloud,China Unicom Guangzhou,<address not available>,"Shenzhen, China",22.543099,114.057868
+Amazon Web Services,Industrial Park IDC,<address not available>,"Yinchuan, China",38.467899,106.262299
+Oracle Cloud,Equinix BG1,Carrera 106  ,"Bogotá, Colombia",4.684246,-74.140596
+Amazon Web Services,Equinix HE6,Sinimaentie 12,"Espoo, Finland",60.203031,24.777861
+Google Cloud,Digital Realty PAR7,1-3 Rue Rateau,"Paris, France",48.924907,2.403000
+Alibaba Cloud,NTT GDC Frankfurt 1,Eschborner Landstrasse 100,"Frankfurt, Germany",50.128150,8.600970
+IBM Cloud,Equinix FR4,Larchenstrasse 110,"Frankfurt, Germany",50.096690,8.588430
+Amazon Web Services,STT Chennai DC1,4 Swami Sivananda Salai Road,"Chennai, India",13.060566,80.261264
+Alibaba Cloud,NTT NetMagic Mumbai Vikhroli,Mehra Industrial Estate,"Mumbai, India",19.100465,72.885661
+Oracle Cloud,Equinix MB1,"Unit A-001 Boomerang, Chandivali Road","Mumbai, India",19.113897,72.892780
+Alibaba Cloud,NTT GDC Jakarta 2,Jl. Kuningan Barat Raya No.8,"Jakarta, Indonesia",-6.238680,106.824063
+Amazon Web Services,Digital Realty DUB2,24 Kavanagh Avenue,"Dublin, Ireland",53.331542,-6.364242
+Amazon Web Services,EdgeConneX TLV01,Ha-Sadna'ot St 10,"Herzliya, Israel",32.161084,34.804451
+Microsoft Azure,IRIDEOS Avalon ,Caldera Park,"Milan, Italy",45.478992,9.102694
+Google Cloud,Equinix OS1,"Shinmachi, 1 Chome−26−1","Osaka, Japan",34.675719,135.493392
+Google Cloud,Equinix TY4,1-9-5 Otemachi,"Chiyoda-ku, Japan",35.687421,139.765370
+Alibaba Cloud,NTT GDC Cyberjaya 4,43000 Jalan APEC,"Kuala Lumpur, Malaysia",2.928374,101.659014
+Oracle Cloud,Telmex Triara Monterrey,Libramiento Norte # 111,"Apocada, Mexico",25.783152,-100.179776
+IBM Cloud,Equinix AM7,Kuiperbergweg 13,"Amsterdam, Netherlands",52.303081,4.937886
+Amazon Web Services,STACK OSL01,1 Selma Ellefsens Vei,"Oslo, Norway",59.926160,10.806110
+Microsoft Azure,Equinix WA1,Al. Jerozolimskie 65/79,"Warsaw, Poland",52.227661,21.004250
+Google Cloud,Quantum Switch DMM A,6961 Road 01,"Dammam, Saudi Arabia",29.574600,49.522400
+Google Cloud,Global Switch Singapore Woodlands,Woodlands Avenue 12,"Singapore, Singapore",1.431677,103.802888
+Tencent Cloud,Empyrion SG1 DODID,71 Tagore Lane,"Singapore, Singapore",1.388542,103.827773
+Huawei Cloud,Digital Realty JB1-East & West,5 Brewery Street,"Isando, South Africa",-26.137780,28.197560
+Microsoft Azure,LG CNS Busan Global Cloud Data Center,"Gangseo-gu, Gurang-dong, 1175-4","Busan, South Korea",35.140735,128.860356
+Google Cloud,LG IDC Pyeong-chon Mega Center,1743 Gwanyang-dong,"Anyang, South Korea",37.401903,126.961132
+Google Cloud,Equinix BA1,Carrer de l'Acer 30-32 Zona Franca,"Barcelona, Spain",41.351760,2.136932
+IBM Cloud,NTT GDC Madrid 1,Calle Aquisgran 2,"Madrid, Spain",40.499827,-3.892552
+Amazon Web Services,Digital Realty STO1,Esbogatan 11,"Kista, Sweden",59.422471,17.918073
+Google Cloud,Digital Realty ZUR1,Sägereistrasse 35,"Glattbrugg, Switzerland",47.431926,8.559344
+Google Cloud,CHT Taipei Aiguo IDC,"No. 31, Aiguo E. Road","Taipei, Taiwan",25.032198,121.524774
+Tencent Cloud,STT Bangkok 1,1 Ramkhamhaeng 28 Alley ,"Bangkok, Thailand",13.757413,100.631042
+Microsoft Azure,PCCS Dubai,<address not available>,"Jebel Ali, United Arab Emirates",25.269340,55.308487
+Google Cloud,Equinix LD5,8 Buckingham Ave,"Slough, United Kingdom",51.520054,-0.614087
+IBM Cloud,Equinix LD8,6-9 Harbour Exchange Square,"London, United Kingdom",51.498070,-0.014361
+Microsoft Azure,Equinix AT1,180 Peachtree Street NW,"Atlanta, GA, United States",33.758884,-84.387690
+Amazon Web Services,QTS Chicago,2800 South Ashland Avenue,"Chicago, IL, United States",41.843390,-87.665860
+Amazon Web Services,Cologix COL2,555 Scherers Court,"Columbus, OH, United States",40.116569,-83.002043
+Amazon Web Services,DataBank HOU1,5150 Westway Park Boulevard,"Houston, TX, United States",29.843464,-95.557387
+Google Cloud,CoreSite LA1,624 South Grand Avenue,"Los Angeles, CA, United States",34.047991,-118.255570
+Microsoft Azure,Sabey Intergate.Quincy ,2200 M Street,"Quincy, WA, United States",47.254022,-119.820537
+Google Cloud,1623 Farnam Data Center,1623 Farnam St. ,"Omaha, NE, United States",41.257446,-95.940331
+Google Cloud,EdgeConneX POR01,6327 NE Evergreen Pkwy,"Hillsboro, OR, United States",45.551667,-122.917491
+Amazon Web Services,CoreSite SV4,2972 Stender Way,"Santa Clara, CA, United States",37.376468,-121.970447
+Microsoft Azure,CoreSite SV7,3020 Coronado Dr,"Santa Clara, CA, United States",37.376011,-121.973083
+IBM Cloud,Digital Realty SEA10,2001 Sixth Avenue,"Seattle, WA, United States",47.614347,-122.338515
+Amazon Web Services,CoreSite VA1,12343 Sunrise Valley Drive,"Reston, VA, United States",38.950595,-77.372334
+Google Cloud,Equinix DC4,21691 Filigree Court,"Ashburn, VA, United States",39.016850,-77.461338
+Microsoft Azure,GDS SH1,"6-9 Huajing Road, Shanghai Waigaoqiao Free Trade Zone","Pudong, China",31.337508,121.591075
+Alibaba Cloud,GDS SZ4,5 Lanzhu Rd,"Shenzhen, China",22.714512,114.378727
+Alibaba Cloud,ap-cn-tianjin-jn-A,<address not available>,"Tianjin, China",39.084158,117.200983
+Alibaba Cloud,Alibaba China North 3 (Zhangjiakou),<address not available>,"Zhangjiakou, China",40.824418,114.887543
+Google Cloud,Digital Realty CPH1,Industriparken 20,"Ballerup, Denmark",55.728488,12.376181
+Amazon Web Services,Digital Realty PAR7,1-3 Rue Rateau,"Paris, France",48.924907,2.403000
+Google Cloud,Digital Realty DUS1,In der Steele 39,"Düsseldorf, Germany",51.187882,6.849854
+IBM Cloud,Digital Realty FRA1,Hanauer Landstrasse 302-304,"Frankfurt, Germany",50.120070,8.735610
+Tencent Cloud,Digital Realty FRA1,Hanauer Landstrasse 302-304,"Frankfurt, Germany",50.120070,8.735610
+Google Cloud,Equinix MU1,Seidlstrasse 3,"Munich, Germany",48.143810,11.556020
+Microsoft Azure,STT Chennai DC1,4 Swami Sivananda Salai Road,"Chennai, India",13.060566,80.261264
+Alibaba Cloud,CtrlS Datacenter Mumbai 4,201 TTC Industrial Area,"Navi Mumbai, India",19.106429,73.024613
+Amazon Web Services,STT Delhi DC2,"IDC Building, Opp Savitri Cinema","New Delhi, India",28.542913,77.238161
+Google Cloud,NTT GDC Jakarta 2,Jl. Kuningan Barat Raya No.8,"Jakarta, Indonesia",-6.238680,106.824063
+Amazon Web Services,ServeCentric Dublin,Blanchardstown Corporate Park,"Dublin, Ireland",53.412959,-6.375400
+Amazon Web Services,CDLAN Caldera21,Caldera Park,"Milan, Italy",45.478992,9.102694
+IBM Cloud,IDC Suita,<address not available>,"Suita, Japan",34.759453,135.516860
+Amazon Web Services,netXDC SI3,<address not available>,"Inzai, Japan",35.801655,140.129565
+Oracle Cloud,Equinix TY4,1-9-5 Otemachi,"Chiyoda-ku, Japan",35.687421,139.765370
+Google Cloud,AIMS Kuala Lumpur 1-2,Menara Aik Hua,"Kuala Lumpur, Malaysia",3.149439,101.705977
+Google Cloud,KIO QRO1,Cerrada de la Princesa 4,"Santiago de Querétaro, Mexico",20.588793,-100.389888
+Microsoft Azure,Equinix AM5,Schepenbergweg 42,"Amsterdam, Netherlands",52.294648,4.945349
+Amazon Web Services,Rack Centre Lagos,"Plot 18, Jagal Close, Oregun Lagos, Jagal Rd","Lagos, Nigeria",6.598592,3.368917
+Amazon Web Services,Equinix WA1,Al. Jerozolimskie 65/79,"Warsaw, Poland",52.227661,21.004250
+Google Cloud,NXDATA-1,8 Dimitrie Pompeiu Boulevard,"Bucharest, Romania",44.481675,26.120647
+Google Cloud,Equinix SG3,26A Ayer Rajah Crescent,"Singapore, Singapore",1.296446,103.790593
+Tencent Cloud,Equinix SG1,20 Ayer Rajah Crescent,"Singapore, Singapore",1.295130,103.790313
+Google Cloud,JBH2 Samrand,17 Waterloo Road,"Centurion, South Africa",-25.930475,28.138406
+Google Cloud,IDC Yeoksam Center,"137, Teheran-ro, Gangnam-gu","Seoul, South Korea",37.500279,127.033997
+Google Cloud,Equinix MD2,"Calle de Valgrande, 6","Madrid, Spain",40.536301,-3.649121
+Amazon Web Services,Equinix SK1,Mariehällsvägen 36,"Stockholm, Sweden",59.362698,17.955588
+Google Cloud,Green Datacenter Zurich West 1,Industriestrasse 33,"Lupfig, Switzerland",47.447427,8.211379
+Amazon Web Services,Chief Fang Liyuan Building,"250, Yang-guang Street","Taipei, Taiwan",25.073467,121.577519
+Huawei Cloud,True IDC - East Bangna,89 AIA Capital Center Building,"Bangkok, Thailand",13.764653,100.568224
+Oracle Cloud,Equinix AD1,Khazna Datacentre,"Abu Dhabi, United Arab Emirates",24.418585,54.621748
+Amazon Web Services,Etisalat SmartHub Fujairah,Eid Mussalla Rd,"Fujairah, United Arab Emirates",25.130328,56.336567
+IBM Cloud,CyrusOne LON1,12 Liverpool Road,"Slough, United Kingdom",51.520421,-0.625482
+Amazon Web Services,Equinix MA3,76 Trafford Wharf Road,"Manchester, United Kingdom",53.467378,-2.292725
+Microsoft Azure,Equinix AT2,56 Marietta Street NW,"Atlanta, GA, United States",33.755610,-84.391651
+Google Cloud,Equinix CH2,350 East Cermak Road,"Chicago, IL, United States",41.854167,-87.618531
+IBM Cloud,QTS Irving - DC1 & DC2,6431 Longhorn Drive,"Irving, TX, United States",32.895882,-96.981935
+Google Cloud,Switch Las Vegas (The Core Campus),7135 S Decatur Blvd,"Las Vegas, NV, United States",36.060035,-115.210189
+Google Cloud,Equinix LA4,445 North Douglas Street,"El Segundo, CA, United States",33.921302,-118.383780
+IBM Cloud,Equinix MI1,50 NE 9th Street,"Miami, FL, United States",25.782626,-80.193069
+Google Cloud,Digital Realty JFK10,111 8th Avenue,"New York, NY, United States",40.740957,-74.002119
+Microsoft Azure,CyrusOne PHX1,2335 South Ellis Street,"Chandler, AZ, United States",33.270448,-111.882105
+Microsoft Azure,CyrusOne SAT1,9999 Westover Hills Boulevard,"San Antonio, TX, United States",29.466508,-98.688287
+IBM Cloud,Equinix SV1,2820 Northwestern Parkway,"Santa Clara, CA, United States",37.372535,-121.973633
+Amazon Web Services,Equinix SE2,2001 Sixth Avenue,"Seattle, WA, United States",47.614347,-122.338515
+Alibaba Cloud,Equinix DC21,22175 Beaumeade Circle,"Ashburn, VA, United States",39.011982,-77.456323
+Microsoft Azure,GDS SH1,"6-9 Huajing Road, Shanghai Waigaoqiao Free Trade Zone","Pudong, China",31.337508,121.591075
+Amazon Web Services,GDS SZ3,51 Hongliu Rd,"Shenzhen, China",22.505962,114.048208
+Alibaba Cloud,Ulanqab-Jining-A,<address not available>,"Ulanqab, China",40.994785,113.132585
+Alibaba Cloud,Zhangjiakou-Zhangbei-B,<address not available>,"Zhangjiakou, China",40.824418,114.887543
+Google Cloud,Digital Realty ZAG1,Altus Information Technology Ltd. ,"Zagreb, Croatia",45.802892,15.943389
+Google Cloud,Digital Realty MRS1,40 Avenue Roger Salengro,"Marseille, France",43.310924,5.372926
+Google Cloud,Data4 PAR1,Route de Nozay,"Marcoussis, France",48.657466,2.208580
+Microsoft Azure,NTT GDC Berlin 1,Nonnendammallee 15,"Berlin, Germany",52.538479,13.237136
+Google Cloud,Digital Realty FRA1,Hanauer Landstrasse 302-304,"Frankfurt, Germany",50.120070,8.735610
+Amazon Web Services,Internet Port Hamburg 3 (IPHH3),Wendenstrasse 251,"Hamburg, Germany",53.550973,10.038109
+Google Cloud,STT Chennai DC1,4 Swami Sivananda Salai Road,"Chennai, India",13.060566,80.261264
+Google Cloud,STT Kolkata DC1,"1, Videsh Sanchar Bhavan, 18, CIT Rd","Kolkata, India",22.588269,88.390951
+IBM Cloud,Equinix MB2,"Plot 37, Chandivali Farm Road, Andheri East","Mumbai, India",19.109353,72.901441
+Tencent Cloud,CtrlS Datacenter Mumbai 1,EL/72/1/A TTC Industrial Area,"Navi Mumbai, India",19.108213,73.021399
+Amazon Web Services,"DCI Indonesia, JK3","Jawa Blok GG-5-1, MM2100 Industrial Town, Cibitung, Bekasi","Bekasi, Indonesia",-6.299150,107.083756
+Amazon Web Services,Eircom Clonshaugh,Willsborough Industrial Estate,"Clonshaugh, Ireland",53.400182,-6.216623
+Amazon Web Services,Equinix ML2,Via Savona 125,"Milan, Italy",45.448475,9.146460
+Oracle Cloud,Equinix ML2,Via Savona 125,"Milan, Italy",45.448475,9.146460
+Amazon Web Services,AT TOKYO CC1,<address not available>,"Koto, Japan",35.642724,139.739124
+IBM Cloud,NTT Communications (domestic) Kanagawa 5,<address not available>,"Yokohama, Japan",35.452702,139.595123
+Amazon Web Services,AIMS Kuala Lumpur 1-2,Menara Aik Hua,"Kuala Lumpur, Malaysia",3.149439,101.705977
+Google Cloud,Telmex Triara Queretaro,Epigmenio Gonzalez No. 2,"Santiago de Querétaro, Mexico",20.611839,-100.394539
+Amazon Web Services,Datacom Auckland (Orbit),6 Orbit Drive,"Auckland, New Zealand",-36.740554,174.728988
+Amazon Web Services,Cirion Lima,Manuel Olguin 395,"Lima, Peru",-12.089054,-76.973144
+Google Cloud,Quantum Switch DOA A,zone 49 Street 504,"Doha, Qatar",25.146707,51.513480
+Alibaba Cloud,Keppel Singapore 5,13 Sunview Way,"Tuas, Singapore",1.319508,103.700220
+Tencent Cloud,Digital Realty SIN12,11 Loyang Way,"Singapore, Singapore",1.373316,103.968684
+Amazon Web Services,Digital Realty JB1-East & West,5 Brewery Street,"Isando, South Africa",-26.137780,28.197560
+Google Cloud,KINX Gasan IDC,"3F, LG Gasan Digital Center","Seoul, South Korea",37.470378,126.885148
+IBM Cloud,DATA4 Madrid DC01,Avenida de la Industria 13,"Alcobendas, Spain",40.533983,-3.648616
+Google Cloud,Equinix SK1,Mariehällsvägen 36,"Stockholm, Sweden",59.362698,17.955588
+Amazon Web Services,Equinix ZH5,Allmendstrasse 13,"Bülach, Switzerland",47.515358,8.537485
+Amazon Web Services,TCC BNDC,"1856 Bangna Trad Road, K.M. 4.5","Bangkok, Thailand",13.727896,100.524123
+Google Cloud,Equinix DX1,F 88-92 Dubai Production City,"Dubai, United Arab Emirates",25.026429,55.184433
+Amazon Web Services,TELEHOUSE London (Docklands West),14 Coriander Avenue,"London, United Kingdom",51.511549,-0.002916
+Amazon Web Services,Digital Realty ATL1,56 Marietta Street NW,"Atlanta, GA, United States",33.755610,-84.391651
+Google Cloud,Equinix CH1,350 East Cermak Road,"Chicago, IL, United States",41.854167,-87.618531
+Amazon Web Services,Equinix DA2,1950 North Stemmons Freeway,"Dallas, TX, United States",32.800983,-96.819720
+Amazon Web Services,CoreSite LA1,624 South Grand Avenue,"Los Angeles, CA, United States",34.047991,-118.255570
+Oracle Cloud,Digital Realty LAX10,600 West 7th Street,"Los Angeles, CA, United States",34.047379,-118.256938
+Amazon Web Services,165 Halsey Street,165 Halsey Street,"Newark, NJ, United States",40.736763,-74.173364
+Amazon Web Services,Netrality Philadelphia,401 North Broad Street,"Philadelphia, PA, United States",39.959793,-75.161931
+Amazon Web Services,The Pittock Building,921 SW Washington Street,"Portland, OR, United States",45.521184,-122.680763
+Google Cloud,CoreSite SV4,2972 Stender Way,"Santa Clara, CA, United States",37.376468,-121.970447
+Google Cloud,Equinix SE2,2001 Sixth Avenue,"Seattle, WA, United States",47.614347,-122.338515
+Amazon Web Services,Equinix DC11,21721 Filigree Ct.,"Ashburn, VA, United States",39.015374,-77.459385
+Google Cloud,Equinix DC5,21701 Filigree Ct,"Ashburn, VA, United States",39.015216,-77.457658
+Microsoft Azure,Equinix DC2,21715 Filigree Court,"Ashburn, VA, United States",39.016208,-77.459289
+Tencent Cloud,ap-shanghai-1,<address not available>,"Shanghai, China",31.247571,121.472587
+Tencent Cloud,Shanghai Jingan,1368 Wanrong Road,"Shanghai, China",31.297441,121.440938
+Tencent Cloud,China Telecom Shahe IDC,4 Shenyun Road ,"Shenzhen, China",22.548800,113.986482
+Alibaba Cloud,ap-cn-wuhan-lr-dh-A,<address not available>,"Wuhan, China",30.592849,114.305539
+Amazon Web Services,Equinix BG1,Carrera 106  ,"Bogotá, Colombia",4.684246,-74.140596
+Microsoft Azure,Digital Realty CPH1,Industriparken 20,"Ballerup, Denmark",55.728488,12.376181
+Oracle Cloud,Digital Realty MRS2,6 Bassin Léon Gourret,"Marseille, France",43.339160,5.346433
+IBM Cloud,Equinix PA2,114 Rue Ambroise Croizat,"Saint Denis, France",48.928041,2.349860
+Google Cloud,Lumen Berlin,Gradestrasse 60,"Berlin, Germany",52.452484,13.428903
+Google Cloud,Equinix FR4,Larchenstrasse 110,"Frankfurt, Germany",50.096690,8.588430
+IBM Cloud,NTT GDC Frankfurt 1,Eschborner Landstrasse 100,"Frankfurt, Germany",50.128150,8.600970
+Google Cloud,NTT NetMagic Chennai 1,"67, Mathiravedu, Velappanchavadi","Chennai, India",13.060795,80.133725
+Amazon Web Services,Equinix MB1,"Unit A-001 Boomerang, Chandivali Road","Mumbai, India",19.113897,72.892780
+Oracle Cloud,Sify Rabale,"Plot no. 847/1/2, TTC Industrial Area","Navi Mumbai, India",19.137142,73.017292
+Amazon Web Services,NTT GDC Jakarta 2,Jl. Kuningan Barat Raya No.8,"Jakarta, Indonesia",-6.238680,106.824063
+Google Cloud,SDS1 Modiin,Tsela HaHar 35,"Modi'in-Maccabim-Re'ut, Israel",31.918399,34.961672
+IBM Cloud,Data4 Campus Milan,Via Monzoro 105,"Cornaredo, Italy",45.480963,9.030182
+IBM Cloud,Equinix OS1,"Shinmachi, 1 Chome−26−1","Osaka, Japan",34.675719,135.493392
+Google Cloud,AT TOKYO CC2,<address not available>,"Koto, Japan",35.642724,139.739124
+Tencent Cloud,Colt Tokyo (TODC) - Otemachi,1-9-7 Otemachi,"Chiyoda-ku, Japan",35.687665,139.765840
+Google Cloud,HSSDS CX2 Cyberjaya,CSF Computer Exchange,"Cyberjaya, Malaysia",2.920839,101.661429
+Amazon Web Services,KIO QRO1,Cerrada de la Princesa 4,"Santiago de Querétaro, Mexico",20.588793,-100.389888
+Microsoft Azure,Digital Realty AMS8,Pudongweg 37,"Rozenburg, Netherlands",52.275753,4.740954
+Huawei Cloud,Telefonica Lima,<address not available>,"Lima, Peru",-12.043600,-77.021217
+Microsoft Azure,Meeza MV 2 Data-Centre,Meeza Data-Centre,"Umm Qarn, Qatar",25.551065,51.434997
+Amazon Web Services,Equinix SG2,15 Pioneer Walk,"Singapore, Singapore",1.321016,103.695190
+Microsoft Azure,Global Switch Singapore Tai Seng,2 Tai Seng Avenue,"Singapore, Singapore",1.336752,103.893589
+Huawei Cloud,MTN Gallo Manor,"113 Bowling Ave, 2191 Johannesburg","Gallo Manor, South Africa",-26.065567,28.073630
+Amazon Web Services,LG IDC Pyeong-chon Mega Center,1743 Gwanyang-dong,"Anyang, South Korea",37.401903,126.961132
+Google Cloud,Digital Realty MAD2,Calle Albasanz 73,"Madrid, Spain",40.439685,-3.623138
+Google Cloud,Digital Realty STO2,Esbogatan 11,"Kista, Sweden",59.422471,17.918073
+Oracle Cloud,Equinix ZH4,Josefstrasse 225,"Zürich, Switzerland",47.388002,8.520291
+IBM Cloud,Chief Fang Liyuan Building,"250, Yang-guang Street","Taipei, Taiwan",25.073467,121.577519
+Huawei Cloud,NGN TR-Istanbul,<address not available>,"Istanbul, Turkey",41.040800,28.986180
+Oracle Cloud,Gulf Data Hub Dubai 1,1105 al Masood Building ,"Dubai, United Arab Emirates",25.127948,55.386264
+Alibaba Cloud,Equinix LD6,352  Buckingham Avenue,"Slough, United Kingdom",51.524049,-0.636150
+Microsoft Azure,Vantage Cardiff (CWL1) site 1,"Celtic Way, Coedkernew, Marshfield, Duffryn","Newport, United Kingdom",51.552904,-3.038907
+Google Cloud,Markley Group (One Summer Street),1 Summer Street,"Boston, MA, United States",42.354492,-71.059524
+IBM Cloud,Equinix CH4,350 East Cermak Road,"Chicago, IL, United States",41.854167,-87.618531
+Google Cloud,Equinix DA1,1950 North Stemmons Freeway,"Dallas, TX, United States",32.800983,-96.819720
+Google Cloud,Netrality Kansas City,1102 Grand Boulevard,"Kansas City, MO, United States",39.100833,-94.581004
+Google Cloud,Equinix LA1,600 West 7th Street,"Los Angeles, CA, United States",34.047379,-118.256938
+Google Cloud,Cologix MIN3,511 11th Avenue South,"Minneapolis, MN, United States",44.972381,-93.255669
+Microsoft Azure,Equinix NY5,800 Secaucus Road,"Secaucus, NJ, United States",40.778738,-74.071541
+Amazon Web Services,Phoenix NAP Phoenix,3402 East University Drive,"Phoenix, AZ, United States",33.415954,-112.009214
+Google Cloud,Aligned Salt Lake City - SLC-01 ,3333 West 9000 South,"West Jordan, UT, United States",40.586198,-111.969729
+Google Cloud,Equinix SV10,7 Great Oaks Blvd,"San Jose, CA, United States",37.241239,-121.787015
+Microsoft Azure,Equinix SV1,2820 Northwestern Parkway,"Santa Clara, CA, United States",37.372535,-121.973633
+Alibaba Cloud,Equinix DC15,44780 Performance Cir,"Ashburn, VA, United States",39.022227,-77.452726
+IBM Cloud,Digital Realty IAD15,44060 Digital Loudoun Plaza (Bldg K),"Ashburn, VA, United States",39.001713,-77.478697
+Tencent Cloud,ap-shanghai-4,<address not available>,"Shanghai, China",31.247571,121.472587
+Alibaba Cloud,NETNIC Runxun Qianhai Cloud Center,87 Hengping Road,"Shenzhen, China",22.658760,114.233481
+Alibaba Cloud,Ulanqab-Development Zone-A,<address not available>,"Ulanqab, China",40.994785,113.132585
+Alibaba Cloud,Zhangjiakou-Miaotan-A,<address not available>,"Zhangjiakou, China",40.824418,114.887543
+Google Cloud,CE Colo DC,Nad Elektrarnou 1428/47,"Prague, Czech Republic",50.060166,14.482932
+Google Cloud,Digital Realty MRS2,6 Bassin Léon Gourret,"Marseille, France",43.339160,5.346433
+Google Cloud,TELEHOUSE Paris (Voltaire),137 Boulevard Voltaire,"Paris, France",48.856014,2.383441
+Alibaba Cloud,Equinix FR4,Larchenstrasse 110,"Frankfurt, Germany",50.096690,8.588430
+Oracle Cloud,Digital Realty FRA10,Weissmuellerstrasse 38,"Frankfurt, Germany",50.119610,8.738200
+Google Cloud,Lumen Hamburg,Suderstrasse 198,"Hamburg, Germany",53.547843,10.043328
+Microsoft Azure,Bharti Airtel Santhome,101 Santhome High Road,"Chennai, India",13.027024,80.273515
+Alibaba Cloud,CtrlS Datacenter Mumbai 1,EL/72/1/A TTC Industrial Area,"Navi Mumbai, India",19.108213,73.021399
+Microsoft Azure,STT Mumbai DC3,"C - 21 & C - 36, G Block, Bandra Kurla Complex","Mumbai, India",19.070910,72.873919
+Alibaba Cloud,"DCI Indonesia, JK1","Jawa Blok GG-5-1, MM2100 Industrial Town, Cikarang Barat, Bekasi ","Bekasi, Indonesia",-6.299118,107.083772
+Tencent Cloud,Princeton Digital JC1,Jl. Sumbawa Blok Bi 1,"Cibitung, Indonesia",-6.308950,107.079787
+Microsoft Azure,SDS1 Modiin,Tsela HaHar 35,"Modi'in-Maccabim-Re'ut, Israel",31.918399,34.961672
+Google Cloud,Telecom Italia Rozzano,Viale Toscana 3,"Milan, Italy",45.381396,9.164049
+Google Cloud,NTT West Osaka 3,3-1-7 Doujima,"Osaka, Japan",34.694626,135.491422
+Google Cloud,Equinix TY2,3-8-21 Higashishinagawa,"Tokyo, Japan",35.622100,139.749984
+Microsoft Azure,AT TOKYO CC1,<address not available>,"Koto, Japan",35.642724,139.739124
+Alibaba Cloud,AIMS Kuala Lumpur 1-2,Menara Aik Hua,"Kuala Lumpur, Malaysia",3.149439,101.705977
+Oracle Cloud,Equinix MX1,Parque Tecnologico Innovacion - Lte 79-80,"El Marques, Mexico",20.556925,-100.280022
+Oracle Cloud,Digital Realty AMS8,Pudongweg 37,"Rozenburg, Netherlands",52.275753,4.740954
+Google Cloud,Bulk OS-IX,Hans Möller Gasmanns vei 9,"Oslo, Norway",59.938433,10.834971
+Google Cloud,ATMAN Data Center Warsaw-1 (WAW-1),Grochowska 21a,"Warsaw, Poland",52.236294,21.116758
+Huawei Cloud,STC Khurais Riyadh,<address not available>,"Riyadh, Saudi Arabia",24.647325,46.714585
+Oracle Cloud,Oracle Cloud Serbia Central (Jovanovac),Save Kovačevića,"Kragujevac, Serbia",44.019748,20.910607
+IBM Cloud,Digital Realty SIN10,29A International Business Park,"Singapore, Singapore",1.327708,103.745987
+Huawei Cloud,Global Switch Singapore Tai Seng,2 Tai Seng Avenue,"Singapore, Singapore",1.336752,103.893589
+Microsoft Azure,Digital Realty CT1,240 Main Road,"Cape Town, South Africa",-33.971200,18.464900
+Google Cloud,Digital Realty CT1,240 Main Road,"Cape Town, South Africa",-33.971200,18.464900
+Google Cloud,Digital Realty JB1-East & West,5 Brewery Street,"Isando, South Africa",-26.137780,28.197560
+Huawei Cloud,Vodacom Midrand,82 Vodacom Boulevard,"Midrand, South Africa",-25.968796,28.122070
+Google Cloud,LG CNS Busan Global Cloud Data Center,"Gangseo-gu, Gurang-dong, 1175-4","Busan, South Korea",35.140735,128.860356
+Oracle Cloud,Samsung SDS Chuncheon,409-14 Yetgyeongchun-ro,"Chuncheon, South Korea",37.846750,127.702003
+Google Cloud,KIDC Seocho 1 Center,"137-010, KIDC Bldg., 1423-1","Seoul, South Korea",37.483751,127.023918
+Oracle Cloud,KINX Gasan IDC,"3F, LG Gasan Digital Center","Seoul, South Korea",37.470378,126.885148
+Microsoft Azure,KT Mok-Dong II,"323, Mokdongdong-ro, Yangcheon-gu","Seoul, South Korea",37.530674,126.875055
+IBM Cloud,Digital Realty MAD3,49 Calle Emilio Muñoz,"Madrid, Spain",40.433895,-3.626280
+Amazon Web Services,Equinix MD2,"Calle de Valgrande, 6","Madrid, Spain",40.536301,-3.649121
+Google Cloud,Nabiax Alcalá (ADC1),Avda. Punto Com 23 ,"Madrid, Spain",40.416775,-3.703790
+Google Cloud,Digital Realty STO3,Esbogatan 11,"Kista, Sweden",59.422471,17.918073
+Google Cloud,Digital Realty STO5,Esbogatan 11,"Kista, Sweden",59.422471,17.918073
+Google Cloud,Digital Realty STO4,Esbogatan 11,"Kista, Sweden",59.422471,17.918073
+Microsoft Azure,Equinix GV2,Route du Bois-des-Freres 48,"Geneva, Switzerland",46.207959,6.098213
+Google Cloud,Equinix GV2,Route du Bois-des-Freres 48,"Geneva, Switzerland",46.207959,6.098213
+Amazon Web Services,Digital Realty ZUR1,Sägereistrasse 35,"Glattbrugg, Switzerland",47.431926,8.559344
+Microsoft Azure,Interxion ZUR2,Sägereistrasse 35,"Glattbrugg, Switzerland",47.431926,8.559344
+Amazon Web Services,CHT Taipei Data Center,"No. 8, Guoqing Road, Banqiao District","New Taipei City, Taiwan",24.994860,121.458470
+Google Cloud,Chief Fang Liyuan Building,"250, Yang-guang Street","Taipei, Taiwan",25.073467,121.577519
+Microsoft Azure,Chief Hongding Building,"No.35, Lane 188, Rui Guang Rd.","Taipei, Taiwan",25.074253,121.576896
+Google Cloud,True IDC - North Muangthong,3 Popular Rd,"Nonthaburi, Thailand",13.911191,100.547836
+Alibaba Cloud,Khazna DBX 1,Meydan,"Nad Al Sheba 1, United Arab Emirates",25.174796,55.316060
+Alibaba Cloud,Ark Hampshire (Cody Park),Cody Technology Park,"Farnborough, United Kingdom",51.280763,-0.794458
+Microsoft Azure,Equinix LD5,8 Buckingham Ave,"Slough, United Kingdom",51.520054,-0.614087
+Amazon Web Services,QTS ATL 1 DC1,1033 Jefferson Street NW,"Atlanta, GA, United States",33.775696,-84.422282
+Amazon Web Services,Equinix CH2,350 East Cermak Road,"Chicago, IL, United States",41.854167,-87.618531
+Microsoft Azure,Equinix CH1,350 East Cermak Road,"Chicago, IL, United States",41.854167,-87.618531
+Microsoft Azure,Equinix DA3,1950 North Stemmons Freeway,"Dallas, TX, United States",32.800983,-96.819720
+Microsoft Azure,Switch Las Vegas (The Core Campus),7135 S Decatur Blvd,"Las Vegas, NV, United States",36.060035,-115.210189
+Microsoft Azure,Equinix LA1,600 West 7th Street,"Los Angeles, CA, United States",34.047379,-118.256938
+Amazon Web Services,Cologix MIN3,511 11th Avenue South,"Minneapolis, MN, United States",44.972381,-93.255669
+IBM Cloud,Equinix NY2,275 Hartz Way,"Secaucus, NJ, United States",40.779168,-74.074888
+Amazon Web Services,EdgeConneX PHX01,3011 S 52nd Street,"Tempe, AZ, United States",33.395111,-111.970070
+Amazon Web Services,EdgeConneX POR01,6327 NE Evergreen Pkwy,"Hillsboro, OR, United States",45.551667,-122.917491
+Amazon Web Services,Equinix SV5,9 Great Oaks Blvd,"San Jose, CA, United States",37.241510,-121.781752
+Tencent Cloud,Equinix SV10,7 Great Oaks Blvd,"San Jose, CA, United States",37.241239,-121.787015
+Alibaba Cloud,CoreSite VA1,12343 Sunrise Valley Drive,"Reston, VA, United States",38.950595,-77.372334
+Google Cloud,Equinix DC1,21711 Filigree Court,"Ashburn, VA, United States",39.015833,-77.459868
+Microsoft Azure,CoreSite VA2,12343 Sunrise Valley Drive,"Reston, VA, United States",38.950595,-77.372334
+Alibaba Cloud,NTT GDC Ho Chi Minh 1,Saigon High-Tech Park,"Ho Chi Minh City, Vietnam",10.857240,106.786141
+Alibaba Cloud,True IDC - East Bangna,89 AIA Capital Center Building,"Bangkok, Thailand",13.764653,100.568224
+Microsoft Azure,Khazna AUH 3,<address not available>,"Khalifa City, United Arab Emirates",24.416306,54.575859
+Google Cloud,Etisalat SmartHub Fujairah,Eid Mussalla Rd,"Fujairah, United Arab Emirates",25.130328,56.336567
+IBM Cloud,Ark Hampshire (Cody Park),Cody Technology Park,"Farnborough, United Kingdom",51.280763,-0.794458
+Oracle Cloud,Vantage Cardiff (CWL1) site 1,"Celtic Way, Coedkernew, Marshfield, Duffryn","Newport, United Kingdom",51.552904,-3.038907
+Amazon Web Services,Markley Group (One Summer Street),1 Summer Street,"Boston, MA, United States",42.354492,-71.059524
+Google Cloud,Equinix CH4,350 East Cermak Road,"Chicago, IL, United States",41.854167,-87.618531
+Oracle Cloud,Digital Realty CH1,2200 Busse Rd.,"Elk Grove Village, IL, United States",41.994257,-87.960609
+Oracle Cloud,Equinix DA6,1950 North Stemmons Freeway,"Dallas, TX, United States",32.800983,-96.819720
+Amazon Web Services,Switch Las Vegas (The Core Campus),7135 S Decatur Blvd,"Las Vegas, NV, United States",36.060035,-115.210189
+Microsoft Azure,CoreSite LA1,624 South Grand Avenue,"Los Angeles, CA, United States",34.047991,-118.255570
+Microsoft Azure,Cologix MIN1,511 11th Avenue South,"Minneapolis, MN, United States",44.972381,-93.255669
+Google Cloud,Equinix NY5,800 Secaucus Road,"Secaucus, NJ, United States",40.778738,-74.071541
+Oracle Cloud,CyrusOne PHX1,2335 South Ellis Street,"Chandler, AZ, United States",33.270448,-111.882105
+Google Cloud,CyrusOne SAT1,9999 Westover Hills Boulevard,"San Antonio, TX, United States",29.466508,-98.688287
+Google Cloud,Equinix SV5,9 Great Oaks Blvd,"San Jose, CA, United States",37.241510,-121.781752
+Amazon Web Services,TierPoint Seattle,140 4th Avenue North,"Seattle, WA, United States",47.619374,-122.348798
+Amazon Web Services,Digital Realty 44100 Digital Loudoun Plaza,44100 Digital Loudoun Plaza Bldg J,"Ashburn, VA, United States",39.001701,-77.478369
+Google Cloud,Equinix DC3,44470 Chilum Place,"Ashburn, VA, United States",39.022104,-77.462885
+Oracle Cloud,CoreSite VA2,12343 Sunrise Valley Drive,"Reston, VA, United States",38.950595,-77.372334
+Google Cloud,True IDC - North Muang Thong,"47/553-554, 557-558 Moo3, Bangkok Land Building","Bangkok, Thailand",13.911017,100.550092
+Amazon Web Services,Equinix DX1,F 88-92 Dubai Production City,"Dubai, United Arab Emirates",25.026429,55.184433
+Google Cloud,Equinix LD6,352  Buckingham Avenue,"Slough, United Kingdom",51.524049,-0.636150
+Google Cloud,Equinix MA3,76 Trafford Wharf Road,"Manchester, United Kingdom",53.467378,-2.292725
+Google Cloud,CyrusOne AUS2,7301 Metropolis Drive,"Austin, TX, United States",30.206671,-97.698308
+Microsoft Azure,CoreSite CH1,427 South LaSalle Street,"Chicago, IL, United States",41.876633,-87.631742
+IBM Cloud,CyrusOne DFW1,1649 West Frankford Road,"Carrollton, TX, United States",32.992076,-96.930441
+Amazon Web Services,Netrality Kansas City,1102 Grand Boulevard,"Kansas City, MO, United States",39.100833,-94.581004
+Google Cloud,Digital Realty LAX10,600 West 7th Street,"Los Angeles, CA, United States",34.047379,-118.256938
+Oracle Cloud,CoreSite LA2,900 North Alameda Street,"Los Angeles, CA, United States",34.058723,-118.235299
+Amazon Web Services,CoreSite NY1,32 Avenue of the Americas,"New York, NY, United States",40.720000,-74.004561
+Google Cloud,Phoenix NAP Phoenix,3402 East University Drive,"Phoenix, AZ, United States",33.415954,-112.009214
+Alibaba Cloud,Equinix SV5,9 Great Oaks Blvd,"San Jose, CA, United States",37.241510,-121.781752
+Amazon Web Services,Digital Realty SEA10,2001 Sixth Avenue,"Seattle, WA, United States",47.614347,-122.338515
+Amazon Web Services,Digital Realty IAD38,44100 Digital Loudoun Plaza Bldg J,"Ashburn, VA, United States",39.001701,-77.478369
+Google Cloud,Equinix DC10,21551 Beaumeade Circle,"Ashburn, VA, United States",39.020884,-77.451129
+Tencent Cloud,Equinix DC11,21721 Filigree Ct.,"Ashburn, VA, United States",39.015374,-77.459385
+Microsoft Azure,AIS CAT Tower,"72 Soi Wat Muang Khae, Charoen Krung Rd.","Bang Rak, Thailand",13.726356,100.516125
+Alibaba Cloud,Equinix DX1,F 88-92 Dubai Production City,"Dubai, United Arab Emirates",25.026429,55.184433
+IBM Cloud,NTT GDC Hemel Hempstead 3,1 Maxted Rd,"Hemel Hempstead, United Kingdom",51.761875,-0.436678
+Google Cloud,Global Switch London East,3 Nutmeg Lane,"London, United Kingdom",51.511015,-0.004312
+Oracle Cloud,Equinix LD6,352  Buckingham Avenue,"Slough, United Kingdom",51.524049,-0.636150
+Google Cloud,Equinix AT3,56 Marietta Street NW,"Atlanta, GA, United States",33.755610,-84.391651
+Google Cloud,CyrusOne CH1,2905 Delhi Rd,"Aurora, IL, United States",41.796565,-88.243012
+Google Cloud,Cologix COL1,535 Scherers Court,"Columbus, OH, United States",40.115782,-83.002425
+Google Cloud,DataBank HOU1,5150 Westway Park Boulevard,"Houston, TX, United States",29.843464,-95.557387
+Amazon Web Services,Serverfarm LAX1 Los Angeles,444 N Nash St,"El Segundo, CA, United States",33.921614,-118.388740
+Amazon Web Services,Equinix MI1,50 NE 9th Street,"Miami, FL, United States",25.782626,-80.193069
+Google Cloud,DataBank LGA1,60 Hudson Street,"New York, NY, United States",40.717664,-74.008333
+Microsoft Azure,EdgeConneX PHX01,3011 S 52nd Street,"Tempe, AZ, United States",33.395111,-111.970070
+Amazon Web Services,CoreSite SV2,1656 McCarthy Boulevard,"Milpitas, CA, United States",37.404994,-121.916881
+Oracle Cloud,Equinix SV10,7 Great Oaks Blvd,"San Jose, CA, United States",37.241239,-121.787015
+Google Cloud,Equinix SE3,2020 5th Avenue,"Seattle, WA, United States",47.614422,-122.339744
+Google Cloud,CoreSite VA3,12343 Sunrise Valley Drive,"Reston, VA, United States",38.950595,-77.372334
+Google Cloud,Equinix DC6,21721 Filigree Ct.,"Ashburn, VA, United States",39.015374,-77.459385
+IBM Cloud,Equinix DC2,21715 Filigree Court,"Ashburn, VA, United States",39.016208,-77.459289
+Microsoft Azure,Datamena,Building F102 - Dubai Production City,"Dubai, United Arab Emirates",25.028900,55.185452
+Alibaba Cloud,TELEHOUSE London (Docklands West),14 Coriander Avenue,"London, United Kingdom",51.511549,-0.002916
+IBM Cloud,Digital Realty LHR13,Cox Lane,"Chessington, United Kingdom",51.369084,-0.292410
+Google Cloud,Digital Realty ATL14,250 Williams Street NW,"Atlanta, GA, United States",33.761272,-84.390554
+Google Cloud,CyrusOne CH1,2905 Delhi Rd,"Aurora, IL, United States",41.796565,-88.243012
+Oracle Cloud,CoreSite CH1,427 South LaSalle Street,"Chicago, IL, United States",41.876633,-87.631742
+Amazon Web Services,AlohaNAP Datacenter,91340 Farrington Hwy,"Kapolei, HI, United States",21.334579,-158.088575
+Amazon Web Services,Equinix LA3,1920 East Maple Ave,"El Segundo, CA, United States",33.926077,-118.394123
+Google Cloud,Equinix MI1,50 NE 9th Street,"Miami, FL, United States",25.782626,-80.193069
+Google Cloud,165 Halsey Street,165 Halsey Street,"Newark, NJ, United States",40.736763,-74.173364
+Oracle Cloud,Cyxtera PHX1,615 North 48th Street,"Phoenix, AZ, United States",33.454411,-111.976435
+Microsoft Azure,CyrusOne SAT2,9554 Westover Hills Blvd,"San Antonio, TX, United States",29.470628,-98.674008
+IBM Cloud,Digital Realty SJC31,2805 Lafayette Street,"Santa Clara, CA, United States",37.371644,-121.950236
+Tencent Cloud,Digital Realty SJC30,3105 Alfred Street,"Santa Clara, CA, United States",37.378291,-121.958187
+Alibaba Cloud,Equinix DC11,21721 Filigree Ct.,"Ashburn, VA, United States",39.015374,-77.459385
+Google Cloud,Equinix DC11,21721 Filigree Ct.,"Ashburn, VA, United States",39.015374,-77.459385
+IBM Cloud,NTT GDC Ashburn VA2,44610 Guilford Drive,"Ashburn, VA, United States",39.024938,-77.460022
+Google Cloud,Equinix DC2,21715 Filigree Court,"Ashburn, VA, United States",39.016208,-77.459289
+Oracle Cloud,Equinix DC6,21721 Filigree Ct.,"Ashburn, VA, United States",39.015374,-77.459385
+IBM Cloud,Sabey Intergate.Ashburn,21741 Red Rum Drive,"Ashburn, VA, United States",39.013675,-77.474687
+Tencent Cloud,CyrusOne NVA5,21350 Pacific Blvd,"Sterling, VA, United States",39.027202,-77.435827
+Microsoft Azure,Equinix DC6,21721 Filigree Ct.,"Ashburn, VA, United States",39.015374,-77.459385

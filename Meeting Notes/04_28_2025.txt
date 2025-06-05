@@ -1,0 +1,11 @@
+April 28th, 2025
+NOTES:
+
+- Greenfield might not have recipient
+- Brownfield (might have recipient) VS Greenfield: Watch out for subtle differences
+- Do not check information of projects manually - work on python code for it
+- Recipient is with respect to where the project is being held, even if there are intermediate investors in a third place
+- Status Column: Come up with around 5 new nominations (all entries are currently "Complete")
+
+
+ 

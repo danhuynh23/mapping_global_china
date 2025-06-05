@@ -1,0 +1,9 @@
+SOURCE: Ministry of Foreign Affairs The People’s Republic of China
+
+LINK: https://www.fmprc.gov.cn/eng/zwjg/zgdsg/2491_665346/
+
+PERIOD: Current embassy presence
+
+DESCRIPTION: A set of CSV files listing the locations of Chinese embassies across six continents, which are later combined into one dataset. A "Continent" column is added for geographic analysis. This reflects China's diplomatic footprint and global presence.
+
+USE CASE: Analyze China’s diplomatic expansion, compare it with financial or cultural influence, or visualize global embassy distribution.

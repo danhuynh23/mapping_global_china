@@ -1,0 +1,28 @@
+April 7th, 2025
+NOTES:
+
+- Geolocation
+- Check project completion (was it cancelled by china/country, ongoing, completed)
+- Projecting lines and roads (infrastructure) 
+- Infrastructure or investment or project? 
+- Material vs imaterial FDIs
+- Maybe filter by amount (<5Billion, extract) 
+- Pick largest amounts and draw it (probably exists in other databases)
+- Data: trying to trace key corridors China wants to build -> maybe useless
+
+MAIN TASKS 
+
+- Geolocation wrong
+- Project canceled
+- Same lines to the same target (aggregate)
+- Eliminate duplicates
+- General check for correctness
+- Sort by size, look at biggest values amounts
+- See anything from X to Y and draw a line (type: infrastructure & transportation projects): already exists in the data, connect them or understand where the project is intended to go
+- Add number of total projects in one country 
+- Average of money by project 
+
+
+MY IDEAS
+- For ongoing projects, add "percentage timeline", calculated by the amount of time spent since the beginning of the project/expected time to complete the project(according to contract/china's promise)
+	-For visualization, that could work as a piechart with the completed percentage highlighted and not completed faded

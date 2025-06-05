@@ -1,0 +1,4 @@
+Version 1:data_merged_project_1019_3type_currency.csv
+Newer Version: data_merged_project_1227.csv
+ 
+There are some issues with the newer version, mainly some column misalignment. 1227 is just normalized a bit better (especially when it comes to project types).

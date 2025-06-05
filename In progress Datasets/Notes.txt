@@ -1,0 +1,88 @@
+Green field Manual Check
+
+NO "G" - 12/20 accuracy 
+
+1) Azerbaijan: Trans Anatolian Natural Gas Pipeline Project (TANAP) - MISCLASSIFIED 
+
+It is built on undeveloped land, it is a new piece of infrastructure (not refurbished) with investments from multiple IFIs and it involves strategic infrastructure on the Energy sector (new natural gas pipeline). It should be classified as Greenfield.
+
+2) Bangladesh: Mymensingh Kewatkhali Bridge Project - MISCLASSIFIED 
+
+It involves the creation of entirely new infrastructure — including a bridge, overpasses, and approach roads. As the first arch steel bridge in the country, it introduces a new type of transport infrastructure rather than upgrading existing facilities, and is therefore best classified as a greenfield project.
+
+3) Indonesia: Batam Bintan Bridge Project - MISCLASSIFIED
+
+It involves the construction of a new, permanent road and bridge infrastructure, where no such connections currently exist. As part of the broader Batam-Bintan inter-island connection, it introduces entirely new transport links rather than upgrading existing routes. Should be classified as a greenfield project.
+
+4) Pakistan: COVID-19 Active Response and Expenditure Support (CARES) Program - CORRECT
+
+Since the program provides budgetary support rather than financing the construction of new infrastructure, and is intended to address immediate fiscal and social needs in response to the COVID-19 pandemic, it does not constitute a greenfield investment.
+
+5) Mongolia: Weathering Exogenous Shocks Program -  CORRECT
+
+The Program provides fiscal and social support through budgetary financing, without building new infrastructure or systems, it does not qualify as a greenfield project. It is better categorized as a countercyclical support initiative under development finance.
+
+6) Kazakhstan: Transport Resilience and Connectivity Enhancement Project (Jezkazgan-Karagandy section of Trans-Caspian International Transport Route (Middle Corridor)) (Previously: Strategic Road Connectivity and Sector Modernization Project) - CORRECT
+
+Since the project involves upgrading and reconstructing an existing 498 km highway, rather than building entirely new infrastructure on previously undeveloped land, it is best classified as a brownfield project. While it introduces modern features and enhances connectivity, the core investment improves existing assets and does not meet the criteria for a greenfield classification.
+
+7) Tajikistan: Obigarm-Nurobod Road Project ‚Äì Long Bridge and Approaches - MISCLASSIFIED 
+
+The project involves constructing a new 920-meter bridge and associated road approaches on undeveloped land to replace an existing highway section that will be submerged. It introduces new physical infrastructure built from the ground up and is therefore best classified as a greenfield project.
+
+8) Turkey: Eastern Turkey Middle Corridor Railway Development Project - CORRECT
+
+Since the project involves upgrading systems and rehabilitating existing railway infrastructure along a currently operational corridor, it does not involve new construction on undeveloped land. It is therefore best classified as a brownfield project focused on modernization and capacity improvement.
+
+9) Uzbekistan: First Inclusive and Resilient Market Economy Development Policy Operation - CORRECT
+
+The Operation provides policy-based financial support to facilitate structural reforms and institutional development—without funding the construction of new physical infrastructure—it does not meet the criteria for a greenfield project. It is best classified as a development policy operation focused on economic and institutional reform.
+
+10) Sri Lanka: Reduction of Landslide Vulnerability by Mitigation Measures (RLVMM) Project - CORRECT
+
+The project includes some greenfield elements, particularly in the construction of civil works for landslide mitigation. However, since the majority of the components focus on policy, capacity building, equipment provision, and project management, the project is best characterized as a mixed or hybrid project—partially greenfield, but not primarily.
+
+11) Thailand: U-Tapao International Airport Expansion Project (The Construction of the U-Tapao International Airport Second Runway and Taxiway) - MISCLASSIFIED 
+
+The project involves the construction of entirely new infrastructure (a second runway and taxiway) on previously undeveloped land as part of the long-term expansion of U-Tapao International Airport. As a government contribution within a PPP scheme and part of a broader masterplan under Thailand’s EEC, the project is best classified as a greenfield PPP infrastructure investment.
+
+12) Rwanda: Rwanda Digital Acceleration Project (Digital Investment for Recovery, Resilience and Connectivity) - MISCLASSIFIED 
+
+Although the project does not involve traditional physical infrastructure, it qualifies as a greenfield investment in the digital development context. It focuses on building new digital systems, services, and innovation ecosystems from the ground up, with no reliance on existing legacy structures. Therefore, it is best classified as a greenfield project.
+
+13) Cambodia: Integrated Water Resources Management Project - MISCLASSIFIED
+
+The project includes both construction and rehabilitation of irrigation and flood-control infrastructure, but the description does not specify the extent of new construction on undeveloped land. Therefore, it is most accurately classified as a hybrid project, combining greenfield and brownfield elements.
+
+14) Côte d'Ivoire: Inclusive Connectivity and Rural Infrastructure Project - MISCLASSIFIED
+
+The project involves both the construction of new rural infrastructure and the rehabilitation/maintenance of existing roads.  Given the significant investment in new transport and agricultural logistics infrastructure across underdeveloped rural regions, it is best classified as a hybrid project with substantial greenfield components.
+
+15) Belarus: Rehabilitation and Upgrading of National Road R46 - CORRECT
+
+Since the primary objective of the project is the rehabilitation and maintenance of an existing national road (R46), and the remaining components focus on institutional capacity building and technical support, the project does not meet the criteria for a greenfield classification. It is best classified as a brownfield project.
+
+16) Egypt: Egypt Sustainable Transport and Digital Infrastructure Guarantee - CORRECT
+
+The bond proceeds will be used exclusively for the rehabilitation and expansion of existing infrastructure in Egypt’s transport and digital sectors. The project is best classified as a brownfield investment. 
+
+17) Vietnam: Dakdrinh 125MW Hydropower Plant - CORRECT
+
+As the project involves only the refinancing of existing debt for an already constructed and operational hydropower plant, with no new infrastructure development or construction activities, it does not meet the criteria for a greenfield investment. 
+
+18) Philippines: Domestic Resource Mobilization Program (Subprogram 1) - CORRECT
+
+Since the Program supports tax policy reform, digital transformation of existing systems, and international tax cooperation without funding the construction of new infrastructure or systems, it does not qualify as a greenfield project.
+
+19) India: Green Affordable Housing Finance with IIFL Home Finance - CORRECT
+
+The project involves debt financing to a financial intermediary for on-lending to support affordable housing acquisition and construction. While a portion of the funds may be used for new housing construction, the project itself does not directly involve the creation of new infrastructure.
+
+20) Laos: National Road 13 South Extension Improvement and Maintenance Project - CORRECT
+
+The project focuses on the expansion, rehabilitation, and maintenance of an existing highway. It is best classified as a brownfield 
+
+
+
+
+

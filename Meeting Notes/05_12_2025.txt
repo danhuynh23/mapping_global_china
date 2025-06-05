@@ -1,0 +1,24 @@
+May 12th, 2025
+NOTES:
+
+- Dan & Amanda: Scrapped data from AIIB website, still trying to get information from "View Details" so the information is more accurate
+- Send scrapped csv to Nika and Meyhar
+- Nika & Meyhar: Took qualitative notes addressing questions in how to handle the dataset
+- Main question: How to categorize status of project in broader categories? (Just completed not sufficient)
+- Challenge of aggregating: conceptual, how to combine, decisions up to us (decide and justify as we go)
+- AIIB investment that goes to China IS NOT considered FDI (keep the information because we still want to be able to access that)
+
+
+MAIN TASKS 
+
+- Set up meeting 4 of us, get each other up to speed on our work
+- Finalize cleaning and merging of FDI: Put up geolocation, change column names, change sector names.
+- Find a way to finish scrapping data from AIIB.
+- Ideally be ready to launch FDI dataset by June.
+- Ideally write a short report (half to one page) about challenges on how to proceed in this merge.
+
+
+
+
+
+

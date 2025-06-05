@@ -1,0 +1,18 @@
+May 26th, 2025
+NOTES:
+
+- Check Greenfield accuracy with random search (manual search)
+- Add columns in tracker that were just in AIIB to the left
+- summary and objective should be filled with LLM in tracker
+- add comment on project description 
+- have field to have name of dataset
+- left should be full values and right can have blanks
+- Youtube link for data manipulation (merging columns): https://www.youtube.com/watch?v=lMdZlgHEZSk
+- Spreadsheet with values of quality of accuracy 
+- Check for overlap 
+
+MAIN TASKS:
+
+- Watch video
+- NEXT WEEK HARD DEADLINE FOR GEOLOCATED PROJECTS!
+- Remove overlaps from merge (delete duplicates)

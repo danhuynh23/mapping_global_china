@@ -1,0 +1,21 @@
+April 14th, 2025
+NOTES:
+
+- get intersection between datasets 
+- If status is abandoned (delete or make gray, flag it somehow)
+- Combine rows (sum investments) that are investments of same project - ONE THE MAP, NOT ON THE DATASET
+- Exclude columns (not in original, have an output) that aren't relevant to project
+- Focus on one dataset first 
+- When compiling a new dataset, map columns of new to old (check for names, e.g.: industry=sector)
+- NEED DATASET AND VARIABLE DESCRIPTION BEFOREHAND
+- Tracker = 12 sectors -> New dataset must adapt to the same names
+- Keep looking at other databases for section (columns) definitions
+- YEAR: Probably for announced 
+- Search by recipient to see which projects are going towards the same target
+- Coordinates are according to recipient, geolocate to headquarters if the geolocation is not a physical location.
+- Note for projects with no location
+
+MY IDEAS
+- Take csv with geolocations to contrast with the tracker one to get wrong lat/long
+- Check how many recipients are NAs
+- 
